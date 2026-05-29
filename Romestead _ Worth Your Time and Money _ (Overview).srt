@@ -1,0 +1,3675 @@
+1
+00:00:00,000 --> 00:00:01,270
+...
+
+2
+00:00:01,270 --> 00:00:01,280
+Why the team, welcome back to the
+
+3
+00:00:01,280 --> 00:00:02,590
+Why the team, welcome back to the
+channel, welcome back to Worth Your
+
+4
+00:00:02,590 --> 00:00:02,600
+channel, welcome back to Worth Your
+
+5
+00:00:02,600 --> 00:00:04,390
+channel, welcome back to Worth Your
+Time, Worth Your Money. Today, we're
+
+6
+00:00:04,390 --> 00:00:04,400
+Time, Worth Your Money. Today, we're
+
+7
+00:00:04,400 --> 00:00:07,190
+Time, Worth Your Money. Today, we're
+going to have a chat about Roomstead.
+
+8
+00:00:07,190 --> 00:00:07,200
+going to have a chat about Roomstead.
+
+9
+00:00:07,200 --> 00:00:10,310
+going to have a chat about Roomstead.
+Now, oh, okay, this game, there might be
+
+10
+00:00:10,310 --> 00:00:10,320
+Now, oh, okay, this game, there might be
+
+11
+00:00:10,320 --> 00:00:13,190
+Now, oh, okay, this game, there might be
+a good game in here, maybe, but my
+
+12
+00:00:13,190 --> 00:00:13,200
+a good game in here, maybe, but my
+
+13
+00:00:13,200 --> 00:00:15,950
+a good game in here, maybe, but my
+goodness, it's working overtime to stop
+
+14
+00:00:15,950 --> 00:00:15,960
+goodness, it's working overtime to stop
+
+15
+00:00:15,960 --> 00:00:18,150
+goodness, it's working overtime to stop
+me from finding it. And I'm coming out
+
+16
+00:00:18,150 --> 00:00:18,160
+me from finding it. And I'm coming out
+
+17
+00:00:18,160 --> 00:00:20,230
+me from finding it. And I'm coming out
+of the gate swinging. This reminds me
+
+18
+00:00:20,230 --> 00:00:20,240
+of the gate swinging. This reminds me
+
+19
+00:00:20,240 --> 00:00:23,830
+of the gate swinging. This reminds me
+that the idea of UX, user experience, is
+
+20
+00:00:23,830 --> 00:00:23,840
+that the idea of UX, user experience, is
+
+21
+00:00:23,840 --> 00:00:27,270
+that the idea of UX, user experience, is
+not purely chained to UI, user
+
+22
+00:00:27,270 --> 00:00:27,280
+not purely chained to UI, user
+
+23
+00:00:27,280 --> 00:00:29,430
+not purely chained to UI, user
+interface. However, most people probably
+
+24
+00:00:29,430 --> 00:00:29,440
+interface. However, most people probably
+
+25
+00:00:29,440 --> 00:00:30,870
+interface. However, most people probably
+don't even know there's two different
+
+26
+00:00:30,870 --> 00:00:30,880
+don't even know there's two different
+
+27
+00:00:30,880 --> 00:00:34,070
+don't even know there's two different
+terms. Often, UX and UI are intertwined,
+
+28
+00:00:34,070 --> 00:00:34,080
+terms. Often, UX and UI are intertwined,
+
+29
+00:00:34,080 --> 00:00:36,990
+terms. Often, UX and UI are intertwined,
+at least in examples that are graspable.
+
+30
+00:00:36,990 --> 00:00:37,000
+at least in examples that are graspable.
+
+31
+00:00:37,000 --> 00:00:39,910
+at least in examples that are graspable.
+UX It is, it's tricky to explain. But
+
+32
+00:00:39,910 --> 00:00:39,920
+UX It is, it's tricky to explain. But
+
+33
+00:00:39,920 --> 00:00:41,470
+UX It is, it's tricky to explain. But
+like a basic example, I don't know,
+
+34
+00:00:41,470 --> 00:00:41,480
+like a basic example, I don't know,
+
+35
+00:00:41,480 --> 00:00:43,550
+like a basic example, I don't know,
+maybe you have the back button's the
+
+36
+00:00:43,550 --> 00:00:43,560
+maybe you have the back button's the
+
+37
+00:00:43,560 --> 00:00:45,510
+maybe you have the back button's the
+same for nine out of 10 menus, but one
+
+38
+00:00:45,510 --> 00:00:45,520
+same for nine out of 10 menus, but one
+
+39
+00:00:45,520 --> 00:00:48,270
+same for nine out of 10 menus, but one
+other menu, it's inexplicably B instead
+
+40
+00:00:48,270 --> 00:00:48,280
+other menu, it's inexplicably B instead
+
+41
+00:00:48,280 --> 00:00:51,030
+other menu, it's inexplicably B instead
+of A or something like that. But often,
+
+42
+00:00:51,030 --> 00:00:51,040
+of A or something like that. But often,
+
+43
+00:00:51,040 --> 00:00:52,510
+of A or something like that. But often,
+even in that example, you could almost
+
+44
+00:00:52,510 --> 00:00:52,520
+even in that example, you could almost
+
+45
+00:00:52,520 --> 00:00:54,550
+even in that example, you could almost
+argue that may well be an error in the
+
+46
+00:00:54,550 --> 00:00:54,560
+argue that may well be an error in the
+
+47
+00:00:54,560 --> 00:00:57,270
+argue that may well be an error in the
+UI. It's almost like telegraphing
+
+48
+00:00:57,270 --> 00:00:57,280
+UI. It's almost like telegraphing
+
+49
+00:00:57,280 --> 00:01:00,030
+UI. It's almost like telegraphing
+intent. What the developer wants you to
+
+50
+00:01:00,030 --> 00:01:00,040
+intent. What the developer wants you to
+
+51
+00:01:00,040 --> 00:01:03,150
+intent. What the developer wants you to
+do is not coming across very well. And
+
+52
+00:01:03,150 --> 00:01:03,160
+do is not coming across very well. And
+
+53
+00:01:03,160 --> 00:01:04,835
+do is not coming across very well. And
+this game is a great,
+
+54
+00:01:04,835 --> 00:01:04,845
+this game is a great,
+
+55
+00:01:04,845 --> 00:01:04,950
+this game is a great,
+&gt;&gt; [music]
+
+56
+00:01:04,950 --> 00:01:04,960
+&gt;&gt; [music]
+
+57
+00:01:04,960 --> 00:01:07,910
+&gt;&gt; [music]
+&gt;&gt; tragically, example of just that. And
+
+58
+00:01:07,910 --> 00:01:07,920
+&gt;&gt; tragically, example of just that. And
+
+59
+00:01:07,920 --> 00:01:09,790
+&gt;&gt; tragically, example of just that. And
+I'm look, I'm not really quick to throw
+
+60
+00:01:09,790 --> 00:01:09,800
+I'm look, I'm not really quick to throw
+
+61
+00:01:09,800 --> 00:01:13,190
+I'm look, I'm not really quick to throw
+around accusations like deception or
+
+62
+00:01:13,190 --> 00:01:13,200
+around accusations like deception or
+
+63
+00:01:13,200 --> 00:01:16,430
+around accusations like deception or
+intentionally underhanded marketing, but
+
+64
+00:01:16,430 --> 00:01:16,440
+intentionally underhanded marketing, but
+
+65
+00:01:16,440 --> 00:01:18,750
+intentionally underhanded marketing, but
+my eyebrows prick up a little bit when I
+
+66
+00:01:18,750 --> 00:01:18,760
+my eyebrows prick up a little bit when I
+
+67
+00:01:18,760 --> 00:01:21,550
+my eyebrows prick up a little bit when I
+look at the trailer for this game, very
+
+68
+00:01:21,550 --> 00:01:21,560
+look at the trailer for this game, very
+
+69
+00:01:21,560 --> 00:01:23,870
+look at the trailer for this game, very
+action cut together, and very much
+
+70
+00:01:23,870 --> 00:01:23,880
+action cut together, and very much
+
+71
+00:01:23,880 --> 00:01:26,350
+action cut together, and very much
+focusing on what looks like autonomous
+
+72
+00:01:26,350 --> 00:01:26,360
+focusing on what looks like autonomous
+
+73
+00:01:26,360 --> 00:01:29,030
+focusing on what looks like autonomous
+towns and cities. A lot of the sales
+
+74
+00:01:29,030 --> 00:01:29,040
+towns and cities. A lot of the sales
+
+75
+00:01:29,040 --> 00:01:31,470
+towns and cities. A lot of the sales
+pitch seems to make you think that what
+
+76
+00:01:31,470 --> 00:01:31,480
+pitch seems to make you think that what
+
+77
+00:01:31,480 --> 00:01:33,350
+pitch seems to make you think that what
+you're seeing in the trailer is what
+
+78
+00:01:33,350 --> 00:01:33,360
+you're seeing in the trailer is what
+
+79
+00:01:33,360 --> 00:01:35,870
+you're seeing in the trailer is what
+you'll get in the game, and it's not so.
+
+80
+00:01:35,870 --> 00:01:35,880
+you'll get in the game, and it's not so.
+
+81
+00:01:35,880 --> 00:01:39,190
+you'll get in the game, and it's not so.
+The citizenry component to this is very
+
+82
+00:01:39,190 --> 00:01:39,200
+The citizenry component to this is very
+
+83
+00:01:39,200 --> 00:01:42,030
+The citizenry component to this is very
+basic. However, after grinding for hours
+
+84
+00:01:42,030 --> 00:01:42,040
+basic. However, after grinding for hours
+
+85
+00:01:42,040 --> 00:01:44,470
+basic. However, after grinding for hours
+with this, it's looking like there might
+
+86
+00:01:44,470 --> 00:01:44,480
+with this, it's looking like there might
+
+87
+00:01:44,480 --> 00:01:47,710
+with this, it's looking like there might
+be more involved colony management
+
+88
+00:01:47,710 --> 00:01:47,720
+be more involved colony management
+
+89
+00:01:47,720 --> 00:01:50,590
+be more involved colony management
+mechanics. However, it is so gated
+
+90
+00:01:50,590 --> 00:01:50,600
+mechanics. However, it is so gated
+
+91
+00:01:50,600 --> 00:01:53,470
+mechanics. However, it is so gated
+behind grinding bosses and upgrading and
+
+92
+00:01:53,470 --> 00:01:53,480
+behind grinding bosses and upgrading and
+
+93
+00:01:53,480 --> 00:01:55,271
+behind grinding bosses and upgrading and
+all that. I'm only just glimpsing
+
+94
+00:01:55,271 --> 00:01:55,281
+all that. I'm only just glimpsing
+
+95
+00:01:55,281 --> 00:01:55,830
+all that. I'm only just glimpsing
+[music]
+
+96
+00:01:55,830 --> 00:01:55,840
+[music]
+
+97
+00:01:55,840 --> 00:01:58,470
+[music]
+it now. Anyway, a little scathing, but
+
+98
+00:01:58,470 --> 00:01:58,480
+it now. Anyway, a little scathing, but
+
+99
+00:01:58,480 --> 00:02:00,630
+it now. Anyway, a little scathing, but
+I'm here to be honest. And just to
+
+100
+00:02:00,630 --> 00:02:00,640
+I'm here to be honest. And just to
+
+101
+00:02:00,640 --> 00:02:02,230
+I'm here to be honest. And just to
+finish that point actually on, you know,
+
+102
+00:02:02,230 --> 00:02:02,240
+finish that point actually on, you know,
+
+103
+00:02:02,240 --> 00:02:03,870
+finish that point actually on, you know,
+all the moving parts going on in the
+
+104
+00:02:03,870 --> 00:02:03,880
+all the moving parts going on in the
+
+105
+00:02:03,880 --> 00:02:05,469
+all the moving parts going on in the
+trailer, I may even have to put b-roll
+
+106
+00:02:05,469 --> 00:02:05,479
+trailer, I may even have to put b-roll
+
+107
+00:02:05,479 --> 00:02:07,750
+trailer, I may even have to put b-roll
+up of it. They're players. All the guys
+
+108
+00:02:07,750 --> 00:02:07,760
+up of it. They're players. All the guys
+
+109
+00:02:07,760 --> 00:02:09,469
+up of it. They're players. All the guys
+moving around doing stuff, picking up
+
+110
+00:02:09,469 --> 00:02:09,479
+moving around doing stuff, picking up
+
+111
+00:02:09,479 --> 00:02:10,990
+moving around doing stuff, picking up
+logs and placing them down, they're
+
+112
+00:02:10,990 --> 00:02:11,000
+logs and placing them down, they're
+
+113
+00:02:11,000 --> 00:02:12,670
+logs and placing them down, they're
+players. This game is one to eight
+
+114
+00:02:12,670 --> 00:02:12,680
+players. This game is one to eight
+
+115
+00:02:12,680 --> 00:02:15,030
+players. This game is one to eight
+players for sure. I am playing it solo.
+
+116
+00:02:15,030 --> 00:02:15,040
+players for sure. I am playing it solo.
+
+117
+00:02:15,040 --> 00:02:16,830
+players for sure. I am playing it solo.
+I understand that as well. Playing
+
+118
+00:02:16,830 --> 00:02:16,840
+I understand that as well. Playing
+
+119
+00:02:16,840 --> 00:02:19,270
+I understand that as well. Playing
+Valheim solo is a very different example
+
+120
+00:02:19,270 --> 00:02:19,280
+Valheim solo is a very different example
+
+121
+00:02:19,280 --> 00:02:21,390
+Valheim solo is a very different example
+from playing it with eight mates. So, to
+
+122
+00:02:21,390 --> 00:02:21,400
+from playing it with eight mates. So, to
+
+123
+00:02:21,400 --> 00:02:22,870
+from playing it with eight mates. So, to
+some extent, take what I'm saying with a
+
+124
+00:02:22,870 --> 00:02:22,880
+some extent, take what I'm saying with a
+
+125
+00:02:22,880 --> 00:02:24,710
+some extent, take what I'm saying with a
+grain of salt. But, if you are looking
+
+126
+00:02:24,710 --> 00:02:24,720
+grain of salt. But, if you are looking
+
+127
+00:02:24,720 --> 00:02:25,990
+grain of salt. But, if you are looking
+at the trailer and thinking, "Oh, wow,
+
+128
+00:02:25,990 --> 00:02:26,000
+at the trailer and thinking, "Oh, wow,
+
+129
+00:02:26,000 --> 00:02:27,630
+at the trailer and thinking, "Oh, wow,
+look all the little meeples are doing
+
+130
+00:02:27,630 --> 00:02:27,640
+look all the little meeples are doing
+
+131
+00:02:27,640 --> 00:02:29,470
+look all the little meeples are doing
+their own things." That's not That's not
+
+132
+00:02:29,470 --> 00:02:29,480
+their own things." That's not That's not
+
+133
+00:02:29,480 --> 00:02:31,670
+their own things." That's not That's not
+what this is. It's very basic. And last
+
+134
+00:02:31,670 --> 00:02:31,680
+what this is. It's very basic. And last
+
+135
+00:02:31,680 --> 00:02:34,630
+what this is. It's very basic. And last
+little caveat, I'm not necessarily into
+
+136
+00:02:34,630 --> 00:02:34,640
+little caveat, I'm not necessarily into
+
+137
+00:02:34,640 --> 00:02:35,870
+little caveat, I'm not necessarily into
+these
+
+138
+00:02:35,870 --> 00:02:35,880
+these
+
+139
+00:02:35,880 --> 00:02:37,630
+these
+I don't know colony builder games that
+
+140
+00:02:37,630 --> 00:02:37,640
+I don't know colony builder games that
+
+141
+00:02:37,640 --> 00:02:39,350
+I don't know colony builder games that
+are a bit more in that Terraria and
+
+142
+00:02:39,350 --> 00:02:39,360
+are a bit more in that Terraria and
+
+143
+00:02:39,360 --> 00:02:42,030
+are a bit more in that Terraria and
+Necesse is a good example. You can check
+
+144
+00:02:42,030 --> 00:02:42,040
+Necesse is a good example. You can check
+
+145
+00:02:42,040 --> 00:02:43,990
+Necesse is a good example. You can check
+my old video where I humbly submit that
+
+146
+00:02:43,990 --> 00:02:44,000
+my old video where I humbly submit that
+
+147
+00:02:44,000 --> 00:02:45,670
+my old video where I humbly submit that
+that is a good game. It's just not
+
+148
+00:02:45,670 --> 00:02:45,680
+that is a good game. It's just not
+
+149
+00:02:45,680 --> 00:02:47,910
+that is a good game. It's just not
+necessarily for me. So, I'm not set
+
+150
+00:02:47,910 --> 00:02:47,920
+necessarily for me. So, I'm not set
+
+151
+00:02:47,920 --> 00:02:50,310
+necessarily for me. So, I'm not set
+against the genre, but I still recognize
+
+152
+00:02:50,310 --> 00:02:50,320
+against the genre, but I still recognize
+
+153
+00:02:50,320 --> 00:02:52,470
+against the genre, but I still recognize
+that it might not be my thing. This is
+
+154
+00:02:52,470 --> 00:02:52,480
+that it might not be my thing. This is
+
+155
+00:02:52,480 --> 00:02:54,949
+that it might not be my thing. This is
+different. This is difficult to enjoy
+
+156
+00:02:54,949 --> 00:02:54,959
+different. This is difficult to enjoy
+
+157
+00:02:54,959 --> 00:02:57,510
+different. This is difficult to enjoy
+even if you do like the genre. So, use
+
+158
+00:02:57,510 --> 00:02:57,520
+even if you do like the genre. So, use
+
+159
+00:02:57,520 --> 00:02:59,550
+even if you do like the genre. So, use
+that as a touchstone for me in this
+
+160
+00:02:59,550 --> 00:02:59,560
+that as a touchstone for me in this
+
+161
+00:02:59,560 --> 00:03:01,710
+that as a touchstone for me in this
+space. Okay, but saying that, there is a
+
+162
+00:03:01,710 --> 00:03:01,720
+space. Okay, but saying that, there is a
+
+163
+00:03:01,720 --> 00:03:03,910
+space. Okay, but saying that, there is a
+lot in common with this like Necesse.
+
+164
+00:03:03,910 --> 00:03:03,920
+lot in common with this like Necesse.
+
+165
+00:03:03,920 --> 00:03:05,670
+lot in common with this like Necesse.
+Again, I feel like a lot of that stuff
+
+166
+00:03:05,670 --> 00:03:05,680
+Again, I feel like a lot of that stuff
+
+167
+00:03:05,680 --> 00:03:08,310
+Again, I feel like a lot of that stuff
+is derived from Terraria, even Stardew
+
+168
+00:03:08,310 --> 00:03:08,320
+is derived from Terraria, even Stardew
+
+169
+00:03:08,320 --> 00:03:09,910
+is derived from Terraria, even Stardew
+Valley to a certain point, you know, you
+
+170
+00:03:09,910 --> 00:03:09,920
+Valley to a certain point, you know, you
+
+171
+00:03:09,920 --> 00:03:12,030
+Valley to a certain point, you know, you
+have that top-down pixel art. There is a
+
+172
+00:03:12,030 --> 00:03:12,040
+have that top-down pixel art. There is a
+
+173
+00:03:12,040 --> 00:03:13,949
+have that top-down pixel art. There is a
+charm to it. It looks very pretty. It
+
+174
+00:03:13,949 --> 00:03:13,959
+charm to it. It looks very pretty. It
+
+175
+00:03:13,959 --> 00:03:16,270
+charm to it. It looks very pretty. It
+This game is very pretty, no doubt about
+
+176
+00:03:16,270 --> 00:03:16,280
+This game is very pretty, no doubt about
+
+177
+00:03:16,280 --> 00:03:18,229
+This game is very pretty, no doubt about
+it. And the setting is kind of novel.
+
+178
+00:03:18,229 --> 00:03:18,239
+it. And the setting is kind of novel.
+
+179
+00:03:18,239 --> 00:03:20,750
+it. And the setting is kind of novel.
+Rome has fallen in the wake of what
+
+180
+00:03:20,750 --> 00:03:20,760
+Rome has fallen in the wake of what
+
+181
+00:03:20,760 --> 00:03:22,949
+Rome has fallen in the wake of what
+seems to be like a zombie apocalypse
+
+182
+00:03:22,949 --> 00:03:22,959
+seems to be like a zombie apocalypse
+
+183
+00:03:22,959 --> 00:03:24,990
+seems to be like a zombie apocalypse
+incursion. They come out at night. It's
+
+184
+00:03:24,990 --> 00:03:25,000
+incursion. They come out at night. It's
+
+185
+00:03:25,000 --> 00:03:27,070
+incursion. They come out at night. It's
+huge pain in the bum because as far as I
+
+186
+00:03:27,070 --> 00:03:27,080
+huge pain in the bum because as far as I
+
+187
+00:03:27,080 --> 00:03:29,390
+huge pain in the bum because as far as I
+can tell you can't time skip night time.
+
+188
+00:03:29,390 --> 00:03:29,400
+can tell you can't time skip night time.
+
+189
+00:03:29,400 --> 00:03:30,790
+can tell you can't time skip night time.
+And if you're trying to fight a boss,
+
+190
+00:03:30,790 --> 00:03:30,800
+And if you're trying to fight a boss,
+
+191
+00:03:30,800 --> 00:03:32,470
+And if you're trying to fight a boss,
+you can't really fight at at night time
+
+192
+00:03:32,470 --> 00:03:32,480
+you can't really fight at at night time
+
+193
+00:03:32,480 --> 00:03:34,030
+you can't really fight at at night time
+cuz zombies keep wandering in and
+
+194
+00:03:34,030 --> 00:03:34,040
+cuz zombies keep wandering in and
+
+195
+00:03:34,040 --> 00:03:35,830
+cuz zombies keep wandering in and
+harassing you and third partying you.
+
+196
+00:03:35,830 --> 00:03:35,840
+harassing you and third partying you.
+
+197
+00:03:35,840 --> 00:03:37,390
+harassing you and third partying you.
+So, you have to kind of just sit in town
+
+198
+00:03:37,390 --> 00:03:37,400
+So, you have to kind of just sit in town
+
+199
+00:03:37,400 --> 00:03:39,030
+So, you have to kind of just sit in town
+and wait. But, you know, it's an
+
+200
+00:03:39,030 --> 00:03:39,040
+and wait. But, you know, it's an
+
+201
+00:03:39,040 --> 00:03:40,390
+and wait. But, you know, it's an
+interesting idea. You're trying to
+
+202
+00:03:40,390 --> 00:03:40,400
+interesting idea. You're trying to
+
+203
+00:03:40,400 --> 00:03:42,710
+interesting idea. You're trying to
+rebuild something in a Rome thematic
+
+204
+00:03:42,710 --> 00:03:42,720
+rebuild something in a Rome thematic
+
+205
+00:03:42,720 --> 00:03:44,910
+rebuild something in a Rome thematic
+setting with zombies. You spawn in your
+
+206
+00:03:44,910 --> 00:03:44,920
+setting with zombies. You spawn in your
+
+207
+00:03:44,920 --> 00:03:46,870
+setting with zombies. You spawn in your
+character, you spawn in the world, you
+
+208
+00:03:46,870 --> 00:03:46,880
+character, you spawn in the world, you
+
+209
+00:03:46,880 --> 00:03:48,949
+character, you spawn in the world, you
+you get skills for doing things. So,
+
+210
+00:03:48,949 --> 00:03:48,959
+you get skills for doing things. So,
+
+211
+00:03:48,959 --> 00:03:50,590
+you get skills for doing things. So,
+your starting character can have a novel
+
+212
+00:03:50,590 --> 00:03:50,600
+your starting character can have a novel
+
+213
+00:03:50,600 --> 00:03:52,870
+your starting character can have a novel
+bonus like plus five melee or something
+
+214
+00:03:52,870 --> 00:03:52,880
+bonus like plus five melee or something
+
+215
+00:03:52,880 --> 00:03:54,070
+bonus like plus five melee or something
+like that, but it doesn't really matter
+
+216
+00:03:54,070 --> 00:03:54,080
+like that, but it doesn't really matter
+
+217
+00:03:54,080 --> 00:03:55,630
+like that, but it doesn't really matter
+in the scheme of anything. [music] At
+
+218
+00:03:55,630 --> 00:03:55,640
+in the scheme of anything. [music] At
+
+219
+00:03:55,640 --> 00:03:57,390
+in the scheme of anything. [music] At
+first, some of the ways that you
+
+220
+00:03:57,390 --> 00:03:57,400
+first, some of the ways that you
+
+221
+00:03:57,400 --> 00:03:58,750
+first, some of the ways that you
+interface and interact with the world
+
+222
+00:03:58,750 --> 00:03:58,760
+interface and interact with the world
+
+223
+00:03:58,760 --> 00:04:00,430
+interface and interact with the world
+seem novel and interesting, but then
+
+224
+00:04:00,430 --> 00:04:00,440
+seem novel and interesting, but then
+
+225
+00:04:00,440 --> 00:04:02,110
+seem novel and interesting, but then
+they quickly lose their luster and then
+
+226
+00:04:02,110 --> 00:04:02,120
+they quickly lose their luster and then
+
+227
+00:04:02,120 --> 00:04:04,030
+they quickly lose their luster and then
+they become kind of more fiddly than
+
+228
+00:04:04,030 --> 00:04:04,040
+they become kind of more fiddly than
+
+229
+00:04:04,040 --> 00:04:06,190
+they become kind of more fiddly than
+necessary. Example, when you uh you
+
+230
+00:04:06,190 --> 00:04:06,200
+necessary. Example, when you uh you
+
+231
+00:04:06,200 --> 00:04:07,710
+necessary. Example, when you uh you
+know, you hit things and chop down
+
+232
+00:04:07,710 --> 00:04:07,720
+know, you hit things and chop down
+
+233
+00:04:07,720 --> 00:04:10,270
+know, you hit things and chop down
+trees, they it breaks down into little
+
+234
+00:04:10,270 --> 00:04:10,280
+trees, they it breaks down into little
+
+235
+00:04:10,280 --> 00:04:12,110
+trees, they it breaks down into little
+log chunks that you can only carry one
+
+236
+00:04:12,110 --> 00:04:12,120
+log chunks that you can only carry one
+
+237
+00:04:12,120 --> 00:04:13,510
+log chunks that you can only carry one
+at a time. You pick it up and move it
+
+238
+00:04:13,510 --> 00:04:13,520
+at a time. You pick it up and move it
+
+239
+00:04:13,520 --> 00:04:15,350
+at a time. You pick it up and move it
+across or you can pick it up and put it
+
+240
+00:04:15,350 --> 00:04:15,360
+across or you can pick it up and put it
+
+241
+00:04:15,360 --> 00:04:17,229
+across or you can pick it up and put it
+back on the stump of the tree and then
+
+242
+00:04:17,229 --> 00:04:17,239
+back on the stump of the tree and then
+
+243
+00:04:17,239 --> 00:04:19,670
+back on the stump of the tree and then
+attack it again to turn it into wood
+
+244
+00:04:19,670 --> 00:04:19,680
+attack it again to turn it into wood
+
+245
+00:04:19,680 --> 00:04:22,150
+attack it again to turn it into wood
+planks. But as the game goes on, you
+
+246
+00:04:22,150 --> 00:04:22,160
+planks. But as the game goes on, you
+
+247
+00:04:22,160 --> 00:04:23,630
+planks. But as the game goes on, you
+start to think, "What? Just let me put
+
+248
+00:04:23,630 --> 00:04:23,640
+start to think, "What? Just let me put
+
+249
+00:04:23,640 --> 00:04:25,070
+start to think, "What? Just let me put
+the bloody logs in my inventory or
+
+250
+00:04:25,070 --> 00:04:25,080
+the bloody logs in my inventory or
+
+251
+00:04:25,080 --> 00:04:26,470
+the bloody logs in my inventory or
+something like that, you know?" I'm
+
+252
+00:04:26,470 --> 00:04:26,480
+something like that, you know?" I'm
+
+253
+00:04:26,480 --> 00:04:27,990
+something like that, you know?" I'm
+building yet another building and
+
+254
+00:04:27,990 --> 00:04:28,000
+building yet another building and
+
+255
+00:04:28,000 --> 00:04:30,390
+building yet another building and
+they're only requiring more stuff as I
+
+256
+00:04:30,390 --> 00:04:30,400
+they're only requiring more stuff as I
+
+257
+00:04:30,400 --> 00:04:32,470
+they're only requiring more stuff as I
+go up. I'm going to need four logs,
+
+258
+00:04:32,470 --> 00:04:32,480
+go up. I'm going to need four logs,
+
+259
+00:04:32,480 --> 00:04:33,430
+go up. I'm going to need four logs,
+which means I'm going to have to run out
+
+260
+00:04:33,430 --> 00:04:33,440
+which means I'm going to have to run out
+
+261
+00:04:33,440 --> 00:04:35,190
+which means I'm going to have to run out
+and carry each one manually back to the
+
+262
+00:04:35,190 --> 00:04:35,200
+and carry each one manually back to the
+
+263
+00:04:35,200 --> 00:04:36,830
+and carry each one manually back to the
+work site, you know? Picking up and
+
+264
+00:04:36,830 --> 00:04:36,840
+work site, you know? Picking up and
+
+265
+00:04:36,840 --> 00:04:38,270
+work site, you know? Picking up and
+throwing was novel. Probably the most
+
+266
+00:04:38,270 --> 00:04:38,280
+throwing was novel. Probably the most
+
+267
+00:04:38,280 --> 00:04:39,550
+throwing was novel. Probably the most
+egregious thing is that if you want to
+
+268
+00:04:39,550 --> 00:04:39,560
+egregious thing is that if you want to
+
+269
+00:04:39,560 --> 00:04:41,830
+egregious thing is that if you want to
+get sticks, you have to pick up rocks or
+
+270
+00:04:41,830 --> 00:04:41,840
+get sticks, you have to pick up rocks or
+
+271
+00:04:41,840 --> 00:04:43,670
+get sticks, you have to pick up rocks or
+whatever and throw them against trees to
+
+272
+00:04:43,670 --> 00:04:43,680
+whatever and throw them against trees to
+
+273
+00:04:43,680 --> 00:04:45,710
+whatever and throw them against trees to
+knock the sticks out. And when you're
+
+274
+00:04:45,710 --> 00:04:45,720
+knock the sticks out. And when you're
+
+275
+00:04:45,720 --> 00:04:47,950
+knock the sticks out. And when you're
+trying to build a hundred arrows because
+
+276
+00:04:47,950 --> 00:04:47,960
+trying to build a hundred arrows because
+
+277
+00:04:47,960 --> 00:04:50,230
+trying to build a hundred arrows because
+arrows do like bloody no damage and
+
+278
+00:04:50,230 --> 00:04:50,240
+arrows do like bloody no damage and
+
+279
+00:04:50,240 --> 00:04:51,590
+arrows do like bloody no damage and
+you're going to need it to cheese the
+
+280
+00:04:51,590 --> 00:04:51,600
+you're going to need it to cheese the
+
+281
+00:04:51,600 --> 00:04:54,310
+you're going to need it to cheese the
+boss, it gets old. It gets old throwing
+
+282
+00:04:54,310 --> 00:04:54,320
+boss, it gets old. It gets old throwing
+
+283
+00:04:54,320 --> 00:04:56,470
+boss, it gets old. It gets old throwing
+rocks against a tree on infinite items,
+
+284
+00:04:56,470 --> 00:04:56,480
+rocks against a tree on infinite items,
+
+285
+00:04:56,480 --> 00:04:57,990
+rocks against a tree on infinite items,
+especially when the rock bounces off
+
+286
+00:04:57,990 --> 00:04:58,000
+especially when the rock bounces off
+
+287
+00:04:58,000 --> 00:04:59,950
+especially when the rock bounces off
+wherever it wants to go. And you kind of
+
+288
+00:04:59,950 --> 00:04:59,960
+wherever it wants to go. And you kind of
+
+289
+00:04:59,960 --> 00:05:01,150
+wherever it wants to go. And you kind of
+crap shooting whether you're going to
+
+290
+00:05:01,150 --> 00:05:01,160
+crap shooting whether you're going to
+
+291
+00:05:01,160 --> 00:05:02,830
+crap shooting whether you're going to
+end up in some sort of rhythm where you
+
+292
+00:05:02,830 --> 00:05:02,840
+end up in some sort of rhythm where you
+
+293
+00:05:02,840 --> 00:05:03,990
+end up in some sort of rhythm where you
+can keep picking the rock up and
+
+294
+00:05:03,990 --> 00:05:04,000
+can keep picking the rock up and
+
+295
+00:05:04,000 --> 00:05:05,350
+can keep picking the rock up and
+throwing it without moving. And look,
+
+296
+00:05:05,350 --> 00:05:05,360
+throwing it without moving. And look,
+
+297
+00:05:05,360 --> 00:05:06,870
+throwing it without moving. And look,
+there are some technologies that come
+
+298
+00:05:06,870 --> 00:05:06,880
+there are some technologies that come
+
+299
+00:05:06,880 --> 00:05:08,909
+there are some technologies that come
+along like a like a cart that you can
+
+300
+00:05:08,909 --> 00:05:08,919
+along like a like a cart that you can
+
+301
+00:05:08,919 --> 00:05:10,710
+along like a like a cart that you can
+use to carry logs around. You can put
+
+302
+00:05:10,710 --> 00:05:10,720
+use to carry logs around. You can put
+
+303
+00:05:10,720 --> 00:05:12,270
+use to carry logs around. You can put
+multiple logs in it at a time, but
+
+304
+00:05:12,270 --> 00:05:12,280
+multiple logs in it at a time, but
+
+305
+00:05:12,280 --> 00:05:15,110
+multiple logs in it at a time, but
+again, these things start to grind you
+
+306
+00:05:15,110 --> 00:05:15,120
+again, these things start to grind you
+
+307
+00:05:15,120 --> 00:05:16,830
+again, these things start to grind you
+when playing the game becomes
+
+308
+00:05:16,830 --> 00:05:16,840
+when playing the game becomes
+
+309
+00:05:16,840 --> 00:05:19,990
+when playing the game becomes
+unpleasant. I don't mind novelty in
+
+310
+00:05:19,990 --> 00:05:20,000
+unpleasant. I don't mind novelty in
+
+311
+00:05:20,000 --> 00:05:22,070
+unpleasant. I don't mind novelty in
+mechanics. I think it's a great way to
+
+312
+00:05:22,070 --> 00:05:22,080
+mechanics. I think it's a great way to
+
+313
+00:05:22,080 --> 00:05:24,030
+mechanics. I think it's a great way to
+distinguish your game, but if you're
+
+314
+00:05:24,030 --> 00:05:24,040
+distinguish your game, but if you're
+
+315
+00:05:24,040 --> 00:05:26,150
+distinguish your game, but if you're
+adding things that are slowing the
+
+316
+00:05:26,150 --> 00:05:26,160
+adding things that are slowing the
+
+317
+00:05:26,160 --> 00:05:27,750
+adding things that are slowing the
+player down and frustrating them,
+
+318
+00:05:27,750 --> 00:05:27,760
+player down and frustrating them,
+
+319
+00:05:27,760 --> 00:05:29,830
+player down and frustrating them,
+especially at the core of it, it's all
+
+320
+00:05:29,830 --> 00:05:29,840
+especially at the core of it, it's all
+
+321
+00:05:29,840 --> 00:05:31,710
+especially at the core of it, it's all
+about the grind. This is a grind game,
+
+322
+00:05:31,710 --> 00:05:31,720
+about the grind. This is a grind game,
+
+323
+00:05:31,720 --> 00:05:34,150
+about the grind. This is a grind game,
+of course it is. Adding extra hurdles
+
+324
+00:05:34,150 --> 00:05:34,160
+of course it is. Adding extra hurdles
+
+325
+00:05:34,160 --> 00:05:35,710
+of course it is. Adding extra hurdles
+for me to jump is just going to
+
+326
+00:05:35,710 --> 00:05:35,720
+for me to jump is just going to
+
+327
+00:05:35,720 --> 00:05:37,909
+for me to jump is just going to
+infuriate me, no matter how cute the
+
+328
+00:05:37,909 --> 00:05:37,919
+infuriate me, no matter how cute the
+
+329
+00:05:37,919 --> 00:05:39,870
+infuriate me, no matter how cute the
+animation or what have it is. Anyway,
+
+330
+00:05:39,870 --> 00:05:39,880
+animation or what have it is. Anyway,
+
+331
+00:05:39,880 --> 00:05:41,630
+animation or what have it is. Anyway,
+let me recenter for a moment. The
+
+332
+00:05:41,630 --> 00:05:41,640
+let me recenter for a moment. The
+
+333
+00:05:41,640 --> 00:05:43,990
+let me recenter for a moment. The
+citizenry component as I was critical
+
+334
+00:05:43,990 --> 00:05:44,000
+citizenry component as I was critical
+
+335
+00:05:44,000 --> 00:05:45,430
+citizenry component as I was critical
+of, big part of what even got me in the
+
+336
+00:05:45,430 --> 00:05:45,440
+of, big part of what even got me in the
+
+337
+00:05:45,440 --> 00:05:47,390
+of, big part of what even got me in the
+door in the first place. You essentially
+
+338
+00:05:47,390 --> 00:05:47,400
+door in the first place. You essentially
+
+339
+00:05:47,400 --> 00:05:49,830
+door in the first place. You essentially
+build workplaces, a lumberjack, you
+
+340
+00:05:49,830 --> 00:05:49,840
+build workplaces, a lumberjack, you
+
+341
+00:05:49,840 --> 00:05:52,070
+build workplaces, a lumberjack, you
+place it down, you have trees nearby,
+
+342
+00:05:52,070 --> 00:05:52,080
+place it down, you have trees nearby,
+
+343
+00:05:52,080 --> 00:05:53,470
+place it down, you have trees nearby,
+you can probably plant trees. I'm
+
+344
+00:05:53,470 --> 00:05:53,480
+you can probably plant trees. I'm
+
+345
+00:05:53,480 --> 00:05:55,390
+you can probably plant trees. I'm
+picking up seeds and all that, but they
+
+346
+00:05:55,390 --> 00:05:55,400
+picking up seeds and all that, but they
+
+347
+00:05:55,400 --> 00:05:56,790
+picking up seeds and all that, but they
+seem to, I don't know, dictate the
+
+348
+00:05:56,790 --> 00:05:56,800
+seem to, I don't know, dictate the
+
+349
+00:05:56,800 --> 00:05:58,950
+seem to, I don't know, dictate the
+income. You do doesn't chop down trees.
+
+350
+00:05:58,950 --> 00:05:58,960
+income. You do doesn't chop down trees.
+
+351
+00:05:58,960 --> 00:06:00,630
+income. You do doesn't chop down trees.
+I watched him for a little bit, he just
+
+352
+00:06:00,630 --> 00:06:00,640
+I watched him for a little bit, he just
+
+353
+00:06:00,640 --> 00:06:03,150
+I watched him for a little bit, he just
+seems to sit in the bloody house, comes
+
+354
+00:06:03,150 --> 00:06:03,160
+seems to sit in the bloody house, comes
+
+355
+00:06:03,160 --> 00:06:05,070
+seems to sit in the bloody house, comes
+out to get food occasionally, wanders
+
+356
+00:06:05,070 --> 00:06:05,080
+out to get food occasionally, wanders
+
+357
+00:06:05,080 --> 00:06:07,550
+out to get food occasionally, wanders
+around. They generate logs. Now, I could
+
+358
+00:06:07,550 --> 00:06:07,560
+around. They generate logs. Now, I could
+
+359
+00:06:07,560 --> 00:06:09,550
+around. They generate logs. Now, I could
+be wrong, but that seems to be it. They
+
+360
+00:06:09,550 --> 00:06:09,560
+be wrong, but that seems to be it. They
+
+361
+00:06:09,560 --> 00:06:11,790
+be wrong, but that seems to be it. They
+generate the resource. They don't pick
+
+362
+00:06:11,790 --> 00:06:11,800
+generate the resource. They don't pick
+
+363
+00:06:11,800 --> 00:06:13,070
+generate the resource. They don't pick
+up things, they don't move around, they
+
+364
+00:06:13,070 --> 00:06:13,080
+up things, they don't move around, they
+
+365
+00:06:13,080 --> 00:06:14,270
+up things, they don't move around, they
+don't interact, they don't move
+
+366
+00:06:14,270 --> 00:06:14,280
+don't interact, they don't move
+
+367
+00:06:14,280 --> 00:06:16,990
+don't interact, they don't move
+storages. And I built like a, what is
+
+368
+00:06:16,990 --> 00:06:17,000
+storages. And I built like a, what is
+
+369
+00:06:17,000 --> 00:06:18,870
+storages. And I built like a, what is
+it, like a leather worker, that's part
+
+370
+00:06:18,870 --> 00:06:18,880
+it, like a leather worker, that's part
+
+371
+00:06:18,880 --> 00:06:20,470
+it, like a leather worker, that's part
+of on-ramping, part of the early
+
+372
+00:06:20,470 --> 00:06:20,480
+of on-ramping, part of the early
+
+373
+00:06:20,480 --> 00:06:22,110
+of on-ramping, part of the early
+tutorial, and he just sits in the
+
+374
+00:06:22,110 --> 00:06:22,120
+tutorial, and he just sits in the
+
+375
+00:06:22,120 --> 00:06:23,310
+tutorial, and he just sits in the
+building. He doesn't do anything, he
+
+376
+00:06:23,310 --> 00:06:23,320
+building. He doesn't do anything, he
+
+377
+00:06:23,320 --> 00:06:24,590
+building. He doesn't do anything, he
+doesn't hunt or anything. You have to
+
+378
+00:06:24,590 --> 00:06:24,600
+doesn't hunt or anything. You have to
+
+379
+00:06:24,600 --> 00:06:26,110
+doesn't hunt or anything. You have to
+bring the resources to him. He doesn't
+
+380
+00:06:26,110 --> 00:06:26,120
+bring the resources to him. He doesn't
+
+381
+00:06:26,120 --> 00:06:28,390
+bring the resources to him. He doesn't
+build anything. You bring the resources,
+
+382
+00:06:28,390 --> 00:06:28,400
+build anything. You bring the resources,
+
+383
+00:06:28,400 --> 00:06:30,510
+build anything. You bring the resources,
+you queue it up, and then he takes for
+
+384
+00:06:30,510 --> 00:06:30,520
+you queue it up, and then he takes for
+
+385
+00:06:30,520 --> 00:06:33,110
+you queue it up, and then he takes for
+ages. So, essentially, it's a workbench
+
+386
+00:06:33,110 --> 00:06:33,120
+ages. So, essentially, it's a workbench
+
+387
+00:06:33,120 --> 00:06:35,350
+ages. So, essentially, it's a workbench
+that you queue stuff and walk away from.
+
+388
+00:06:35,350 --> 00:06:35,360
+that you queue stuff and walk away from.
+
+389
+00:06:35,360 --> 00:06:37,110
+that you queue stuff and walk away from.
+And yet, it has to have its own house,
+
+390
+00:06:37,110 --> 00:06:37,120
+And yet, it has to have its own house,
+
+391
+00:06:37,120 --> 00:06:38,870
+And yet, it has to have its own house,
+it has to be built with resources and
+
+392
+00:06:38,870 --> 00:06:38,880
+it has to be built with resources and
+
+393
+00:06:38,880 --> 00:06:40,830
+it has to be built with resources and
+manned by a dude that you have to feed,
+
+394
+00:06:40,830 --> 00:06:40,840
+manned by a dude that you have to feed,
+
+395
+00:06:40,840 --> 00:06:43,230
+manned by a dude that you have to feed,
+as well. Now, right at the end of my
+
+396
+00:06:43,230 --> 00:06:43,240
+as well. Now, right at the end of my
+
+397
+00:06:43,240 --> 00:06:45,670
+as well. Now, right at the end of my
+time with this, I unlocked some sort of
+
+398
+00:06:45,670 --> 00:06:45,680
+time with this, I unlocked some sort of
+
+399
+00:06:45,680 --> 00:06:48,230
+time with this, I unlocked some sort of
+farmstead, which, it would seem, it does
+
+400
+00:06:48,230 --> 00:06:48,240
+farmstead, which, it would seem, it does
+
+401
+00:06:48,240 --> 00:06:50,430
+farmstead, which, it would seem, it does
+what the lumberjack does. It will
+
+402
+00:06:50,430 --> 00:06:50,440
+what the lumberjack does. It will
+
+403
+00:06:50,440 --> 00:06:52,950
+what the lumberjack does. It will
+harvest fields in surrounding. But that
+
+404
+00:06:52,950 --> 00:06:52,960
+harvest fields in surrounding. But that
+
+405
+00:06:52,960 --> 00:06:55,270
+harvest fields in surrounding. But that
+took hours to get to. So, yeah, maybe
+
+406
+00:06:55,270 --> 00:06:55,280
+took hours to get to. So, yeah, maybe
+
+407
+00:06:55,280 --> 00:06:56,990
+took hours to get to. So, yeah, maybe
+the solutions are there, but the pacing
+
+408
+00:06:56,990 --> 00:06:57,000
+the solutions are there, but the pacing
+
+409
+00:06:57,000 --> 00:06:59,390
+the solutions are there, but the pacing
+is absolutely bloated as anything from
+
+410
+00:06:59,390 --> 00:06:59,400
+is absolutely bloated as anything from
+
+411
+00:06:59,400 --> 00:07:01,430
+is absolutely bloated as anything from
+the beginning out. And then this circles
+
+412
+00:07:01,430 --> 00:07:01,440
+the beginning out. And then this circles
+
+413
+00:07:01,440 --> 00:07:03,750
+the beginning out. And then this circles
+me back to the UX complaint. The way
+
+414
+00:07:03,750 --> 00:07:03,760
+me back to the UX complaint. The way
+
+415
+00:07:03,760 --> 00:07:06,270
+me back to the UX complaint. The way
+that the game laid itself out belies, to
+
+416
+00:07:06,270 --> 00:07:06,280
+that the game laid itself out belies, to
+
+417
+00:07:06,280 --> 00:07:08,110
+that the game laid itself out belies, to
+me, something that you see often with
+
+418
+00:07:08,110 --> 00:07:08,120
+me, something that you see often with
+
+419
+00:07:08,120 --> 00:07:11,750
+me, something that you see often with
+devs, indie devs, is they spend 5 years,
+
+420
+00:07:11,750 --> 00:07:11,760
+devs, indie devs, is they spend 5 years,
+
+421
+00:07:11,760 --> 00:07:13,909
+devs, indie devs, is they spend 5 years,
+every day, hours and hours every day
+
+422
+00:07:13,909 --> 00:07:13,919
+every day, hours and hours every day
+
+423
+00:07:13,919 --> 00:07:16,150
+every day, hours and hours every day
+with the same build. And they forget.
+
+424
+00:07:16,150 --> 00:07:16,160
+with the same build. And they forget.
+
+425
+00:07:16,160 --> 00:07:18,070
+with the same build. And they forget.
+Every hour that you invest in building
+
+426
+00:07:18,070 --> 00:07:18,080
+Every hour that you invest in building
+
+427
+00:07:18,080 --> 00:07:19,630
+Every hour that you invest in building
+up your end game or whatever, you know,
+
+428
+00:07:19,630 --> 00:07:19,640
+up your end game or whatever, you know,
+
+429
+00:07:19,640 --> 00:07:22,550
+up your end game or whatever, you know,
+is another step further away from the
+
+430
+00:07:22,550 --> 00:07:22,560
+is another step further away from the
+
+431
+00:07:22,560 --> 00:07:24,310
+is another step further away from the
+initial player experience, which is the
+
+432
+00:07:24,310 --> 00:07:24,320
+initial player experience, which is the
+
+433
+00:07:24,320 --> 00:07:26,190
+initial player experience, which is the
+most important part. The problems you
+
+434
+00:07:26,190 --> 00:07:26,200
+most important part. The problems you
+
+435
+00:07:26,200 --> 00:07:28,270
+most important part. The problems you
+should have with your game is, "Hey, the
+
+436
+00:07:28,270 --> 00:07:28,280
+should have with your game is, "Hey, the
+
+437
+00:07:28,280 --> 00:07:30,430
+should have with your game is, "Hey, the
+intro was excellent and fantastic, and I
+
+438
+00:07:30,430 --> 00:07:30,440
+intro was excellent and fantastic, and I
+
+439
+00:07:30,440 --> 00:07:32,190
+intro was excellent and fantastic, and I
+loved it, and then maybe it gets weak at
+
+440
+00:07:32,190 --> 00:07:32,200
+loved it, and then maybe it gets weak at
+
+441
+00:07:32,200 --> 00:07:33,710
+loved it, and then maybe it gets weak at
+the end." But that's not how it works.
+
+442
+00:07:33,710 --> 00:07:33,720
+the end." But that's not how it works.
+
+443
+00:07:33,720 --> 00:07:35,310
+the end." But that's not how it works.
+It's back to front. They become
+
+444
+00:07:35,310 --> 00:07:35,320
+It's back to front. They become
+
+445
+00:07:35,320 --> 00:07:37,150
+It's back to front. They become
+over-familiar with their build, and they
+
+446
+00:07:37,150 --> 00:07:37,160
+over-familiar with their build, and they
+
+447
+00:07:37,160 --> 00:07:39,030
+over-familiar with their build, and they
+forget what it is to be a new player,
+
+448
+00:07:39,030 --> 00:07:39,040
+forget what it is to be a new player,
+
+449
+00:07:39,040 --> 00:07:41,190
+forget what it is to be a new player,
+fresh face going into it. So much so,
+
+450
+00:07:41,190 --> 00:07:41,200
+fresh face going into it. So much so,
+
+451
+00:07:41,200 --> 00:07:43,230
+fresh face going into it. So much so,
+the way that the game telegraphed was
+
+452
+00:07:43,230 --> 00:07:43,240
+the way that the game telegraphed was
+
+453
+00:07:43,240 --> 00:07:45,310
+the way that the game telegraphed was
+there's a big bird boss in the region.
+
+454
+00:07:45,310 --> 00:07:45,320
+there's a big bird boss in the region.
+
+455
+00:07:45,320 --> 00:07:46,350
+there's a big bird boss in the region.
+You're going to have to fight it. You're
+
+456
+00:07:46,350 --> 00:07:46,360
+You're going to have to fight it. You're
+
+457
+00:07:46,360 --> 00:07:47,830
+You're going to have to fight it. You're
+going to have to gear up towards
+
+458
+00:07:47,830 --> 00:07:47,840
+going to have to gear up towards
+
+459
+00:07:47,840 --> 00:07:49,750
+going to have to gear up towards
+fighting it, etc. Right? Okay, cool.
+
+460
+00:07:49,750 --> 00:07:49,760
+fighting it, etc. Right? Okay, cool.
+
+461
+00:07:49,760 --> 00:07:51,710
+fighting it, etc. Right? Okay, cool.
+First thing I do is build every single
+
+462
+00:07:51,710 --> 00:07:51,720
+First thing I do is build every single
+
+463
+00:07:51,720 --> 00:07:53,590
+First thing I do is build every single
+building possible because that's what
+
+464
+00:07:53,590 --> 00:07:53,600
+building possible because that's what
+
+465
+00:07:53,600 --> 00:07:55,190
+building possible because that's what
+you do in these kind of games. And that
+
+466
+00:07:55,190 --> 00:07:55,200
+you do in these kind of games. And that
+
+467
+00:07:55,200 --> 00:07:57,510
+you do in these kind of games. And that
+bloody takes forever cuz you're grinding
+
+468
+00:07:57,510 --> 00:07:57,520
+bloody takes forever cuz you're grinding
+
+469
+00:07:57,520 --> 00:07:58,990
+bloody takes forever cuz you're grinding
+and getting resources and all and that's
+
+470
+00:07:58,990 --> 00:07:59,000
+and getting resources and all and that's
+
+471
+00:07:59,000 --> 00:08:02,110
+and getting resources and all and that's
+fine. It's still novel, whatever. But
+
+472
+00:08:02,110 --> 00:08:02,120
+fine. It's still novel, whatever. But
+
+473
+00:08:02,120 --> 00:08:04,110
+fine. It's still novel, whatever. But
+then you hit a ceiling pretty quick and
+
+474
+00:08:04,110 --> 00:08:04,120
+then you hit a ceiling pretty quick and
+
+475
+00:08:04,120 --> 00:08:05,790
+then you hit a ceiling pretty quick and
+the only buildings that you do have, you
+
+476
+00:08:05,790 --> 00:08:05,800
+the only buildings that you do have, you
+
+477
+00:08:05,800 --> 00:08:07,750
+the only buildings that you do have, you
+know, I've got houses full of unemployed
+
+478
+00:08:07,750 --> 00:08:07,760
+know, I've got houses full of unemployed
+
+479
+00:08:07,760 --> 00:08:09,590
+know, I've got houses full of unemployed
+people that I have to feed that do
+
+480
+00:08:09,590 --> 00:08:09,600
+people that I have to feed that do
+
+481
+00:08:09,600 --> 00:08:11,110
+people that I have to feed that do
+nothing. Like not like you kind of
+
+482
+00:08:11,110 --> 00:08:11,120
+nothing. Like not like you kind of
+
+483
+00:08:11,120 --> 00:08:12,750
+nothing. Like not like you kind of
+assume that they're going to gather
+
+484
+00:08:12,750 --> 00:08:12,760
+assume that they're going to gather
+
+485
+00:08:12,760 --> 00:08:15,630
+assume that they're going to gather
+resources on their own or do something.
+
+486
+00:08:15,630 --> 00:08:15,640
+resources on their own or do something.
+
+487
+00:08:15,640 --> 00:08:17,990
+resources on their own or do something.
+They don't even cook. So if you put food
+
+488
+00:08:17,990 --> 00:08:18,000
+They don't even cook. So if you put food
+
+489
+00:08:18,000 --> 00:08:19,710
+They don't even cook. So if you put food
+in the food storage, you can put raw
+
+490
+00:08:19,710 --> 00:08:19,720
+in the food storage, you can put raw
+
+491
+00:08:19,720 --> 00:08:21,110
+in the food storage, you can put raw
+food in that in there, but they won't
+
+492
+00:08:21,110 --> 00:08:21,120
+food in that in there, but they won't
+
+493
+00:08:21,120 --> 00:08:23,110
+food in that in there, but they won't
+cook it. And all you really have is like
+
+494
+00:08:23,110 --> 00:08:23,120
+cook it. And all you really have is like
+
+495
+00:08:23,120 --> 00:08:25,630
+cook it. And all you really have is like
+a lumberjack generating logs, which is
+
+496
+00:08:25,630 --> 00:08:25,640
+a lumberjack generating logs, which is
+
+497
+00:08:25,640 --> 00:08:27,870
+a lumberjack generating logs, which is
+one half of the equation. You often need
+
+498
+00:08:27,870 --> 00:08:27,880
+one half of the equation. You often need
+
+499
+00:08:27,880 --> 00:08:30,550
+one half of the equation. You often need
+stones and the quarry isn't unlocked at
+
+500
+00:08:30,550 --> 00:08:30,560
+stones and the quarry isn't unlocked at
+
+501
+00:08:30,560 --> 00:08:32,070
+stones and the quarry isn't unlocked at
+this point. Do you sort of see what I
+
+502
+00:08:32,070 --> 00:08:32,080
+this point. Do you sort of see what I
+
+503
+00:08:32,080 --> 00:08:35,390
+this point. Do you sort of see what I
+mean? It's this flimsy halfway there.
+
+504
+00:08:35,390 --> 00:08:35,400
+mean? It's this flimsy halfway there.
+
+505
+00:08:35,400 --> 00:08:36,909
+mean? It's this flimsy halfway there.
+And then, you know, you got your bloody
+
+506
+00:08:36,909 --> 00:08:36,919
+And then, you know, you got your bloody
+
+507
+00:08:36,919 --> 00:08:39,390
+And then, you know, you got your bloody
+leather worker that does nothing other
+
+508
+00:08:39,390 --> 00:08:39,400
+leather worker that does nothing other
+
+509
+00:08:39,400 --> 00:08:42,149
+leather worker that does nothing other
+than gives you of resource recipes like,
+
+510
+00:08:42,149 --> 00:08:42,159
+than gives you of resource recipes like,
+
+511
+00:08:42,159 --> 00:08:44,630
+than gives you of resource recipes like,
+you know, hat, chest, legs, that sort of
+
+512
+00:08:44,630 --> 00:08:44,640
+you know, hat, chest, legs, that sort of
+
+513
+00:08:44,640 --> 00:08:47,030
+you know, hat, chest, legs, that sort of
+thing and they all require pelts. Sure,
+
+514
+00:08:47,030 --> 00:08:47,040
+thing and they all require pelts. Sure,
+
+515
+00:08:47,040 --> 00:08:49,310
+thing and they all require pelts. Sure,
+whatever. You have to grind unironically
+
+516
+00:08:49,310 --> 00:08:49,320
+whatever. You have to grind unironically
+
+517
+00:08:49,320 --> 00:08:51,590
+whatever. You have to grind unironically
+bloody 20 bear pelts for the first
+
+518
+00:08:51,590 --> 00:08:51,600
+bloody 20 bear pelts for the first
+
+519
+00:08:51,600 --> 00:08:53,310
+bloody 20 bear pelts for the first
+opening hours. That is going to be a
+
+520
+00:08:53,310 --> 00:08:53,320
+opening hours. That is going to be a
+
+521
+00:08:53,320 --> 00:08:55,030
+opening hours. That is going to be a
+no-go for most people. I use that as a
+
+522
+00:08:55,030 --> 00:08:55,040
+no-go for most people. I use that as a
+
+523
+00:08:55,040 --> 00:08:56,990
+no-go for most people. I use that as a
+low-hanging joke for World of Warcraft.
+
+524
+00:08:56,990 --> 00:08:57,000
+low-hanging joke for World of Warcraft.
+
+525
+00:08:57,000 --> 00:08:58,790
+low-hanging joke for World of Warcraft.
+But no, that's the actual gameplay core
+
+526
+00:08:58,790 --> 00:08:58,800
+But no, that's the actual gameplay core
+
+527
+00:08:58,800 --> 00:09:00,790
+But no, that's the actual gameplay core
+here. Anyway, you can build an altar and
+
+528
+00:09:00,790 --> 00:09:00,800
+here. Anyway, you can build an altar and
+
+529
+00:09:00,800 --> 00:09:03,110
+here. Anyway, you can build an altar and
+you've got a god kind of helping guide
+
+530
+00:09:03,110 --> 00:09:03,120
+you've got a god kind of helping guide
+
+531
+00:09:03,120 --> 00:09:05,190
+you've got a god kind of helping guide
+you along. You can put stuff on the
+
+532
+00:09:05,190 --> 00:09:05,200
+you along. You can put stuff on the
+
+533
+00:09:05,200 --> 00:09:08,310
+you along. You can put stuff on the
+altar and, you know, sacrifice it up as
+
+534
+00:09:08,310 --> 00:09:08,320
+altar and, you know, sacrifice it up as
+
+535
+00:09:08,320 --> 00:09:09,710
+altar and, you know, sacrifice it up as
+an offering. And a lot of them are
+
+536
+00:09:09,710 --> 00:09:09,720
+an offering. And a lot of them are
+
+537
+00:09:09,720 --> 00:09:10,670
+an offering. And a lot of them are
+undiscovered.
+
+538
+00:09:10,670 --> 00:09:10,680
+undiscovered.
+
+539
+00:09:10,680 --> 00:09:12,470
+undiscovered.
+So all of a sudden all these resources
+
+540
+00:09:12,470 --> 00:09:12,480
+So all of a sudden all these resources
+
+541
+00:09:12,480 --> 00:09:14,430
+So all of a sudden all these resources
+I'm going out, I'm just jamming into the
+
+542
+00:09:14,430 --> 00:09:14,440
+I'm going out, I'm just jamming into the
+
+543
+00:09:14,440 --> 00:09:16,910
+I'm going out, I'm just jamming into the
+altar to figure out what is offerable.
+
+544
+00:09:16,910 --> 00:09:16,920
+altar to figure out what is offerable.
+
+545
+00:09:16,920 --> 00:09:19,190
+altar to figure out what is offerable.
+Now it would seem, don't do that. If
+
+546
+00:09:19,190 --> 00:09:19,200
+Now it would seem, don't do that. If
+
+547
+00:09:19,200 --> 00:09:21,310
+Now it would seem, don't do that. If
+you're listening, don't do that. I know
+
+548
+00:09:21,310 --> 00:09:21,320
+you're listening, don't do that. I know
+
+549
+00:09:21,320 --> 00:09:22,990
+you're listening, don't do that. I know
+you want to. I know you probably already
+
+550
+00:09:22,990 --> 00:09:23,000
+you want to. I know you probably already
+
+551
+00:09:23,000 --> 00:09:24,630
+you want to. I know you probably already
+did if you're coming here afterwards.
+
+552
+00:09:24,630 --> 00:09:24,640
+did if you're coming here afterwards.
+
+553
+00:09:24,640 --> 00:09:26,310
+did if you're coming here afterwards.
+That's what I did. That's what everyone
+
+554
+00:09:26,310 --> 00:09:26,320
+That's what I did. That's what everyone
+
+555
+00:09:26,320 --> 00:09:27,350
+That's what I did. That's what everyone
+would do. That's not what you're
+
+556
+00:09:27,350 --> 00:09:27,360
+would do. That's not what you're
+
+557
+00:09:27,360 --> 00:09:29,350
+would do. That's not what you're
+supposed to do. Even though the game is
+
+558
+00:09:29,350 --> 00:09:29,360
+supposed to do. Even though the game is
+
+559
+00:09:29,360 --> 00:09:30,910
+supposed to do. Even though the game is
+clearly telegraphing the intrigue
+
+560
+00:09:30,910 --> 00:09:30,920
+clearly telegraphing the intrigue
+
+561
+00:09:30,920 --> 00:09:33,190
+clearly telegraphing the intrigue
+component into it. What you're supposed
+
+562
+00:09:33,190 --> 00:09:33,200
+component into it. What you're supposed
+
+563
+00:09:33,200 --> 00:09:35,510
+component into it. What you're supposed
+to do is fight the boss, which I went
+
+564
+00:09:35,510 --> 00:09:35,520
+to do is fight the boss, which I went
+
+565
+00:09:35,520 --> 00:09:36,790
+to do is fight the boss, which I went
+and poked a little bit and I got
+
+566
+00:09:36,790 --> 00:09:36,800
+and poked a little bit and I got
+
+567
+00:09:36,800 --> 00:09:39,030
+and poked a little bit and I got
+absolutely fucking stomped by, but
+
+568
+00:09:39,030 --> 00:09:39,040
+absolutely fucking stomped by, but
+
+569
+00:09:39,040 --> 00:09:40,910
+absolutely fucking stomped by, but
+you're supposed to grind up every piece
+
+570
+00:09:40,910 --> 00:09:40,920
+you're supposed to grind up every piece
+
+571
+00:09:40,920 --> 00:09:42,510
+you're supposed to grind up every piece
+of equipment that you can possibly do.
+
+572
+00:09:42,510 --> 00:09:42,520
+of equipment that you can possibly do.
+
+573
+00:09:42,520 --> 00:09:45,590
+of equipment that you can possibly do.
+Legs, arms, chest, spi- spears, pile
+
+574
+00:09:45,590 --> 00:09:45,600
+Legs, arms, chest, spi- spears, pile
+
+575
+00:09:45,600 --> 00:09:47,990
+Legs, arms, chest, spi- spears, pile
+them, crossbows. You have to build all
+
+576
+00:09:47,990 --> 00:09:48,000
+them, crossbows. You have to build all
+
+577
+00:09:48,000 --> 00:09:49,950
+them, crossbows. You have to build all
+of this basic crap on your own back
+
+578
+00:09:49,950 --> 00:09:49,960
+of this basic crap on your own back
+
+579
+00:09:49,960 --> 00:09:51,470
+of this basic crap on your own back
+without really any help from your
+
+580
+00:09:51,470 --> 00:09:51,480
+without really any help from your
+
+581
+00:09:51,480 --> 00:09:53,190
+without really any help from your
+villagers. And then you got to go fight
+
+582
+00:09:53,190 --> 00:09:53,200
+villagers. And then you got to go fight
+
+583
+00:09:53,200 --> 00:09:55,830
+villagers. And then you got to go fight
+the boss, which can be best described as
+
+584
+00:09:55,830 --> 00:09:55,840
+the boss, which can be best described as
+
+585
+00:09:55,840 --> 00:09:59,990
+the boss, which can be best described as
+a weaker attempt to Dark Souls-ify the
+
+586
+00:09:59,990 --> 00:10:00,000
+a weaker attempt to Dark Souls-ify the
+
+587
+00:10:00,000 --> 00:10:02,470
+a weaker attempt to Dark Souls-ify the
+combat, right? It's a boss fight that
+
+588
+00:10:02,470 --> 00:10:02,480
+combat, right? It's a boss fight that
+
+589
+00:10:02,480 --> 00:10:05,030
+combat, right? It's a boss fight that
+often has you stagger into zombies or
+
+590
+00:10:05,030 --> 00:10:05,040
+often has you stagger into zombies or
+
+591
+00:10:05,040 --> 00:10:07,190
+often has you stagger into zombies or
+boars or wild animals who will third
+
+592
+00:10:07,190 --> 00:10:07,200
+boars or wild animals who will third
+
+593
+00:10:07,200 --> 00:10:09,390
+boars or wild animals who will third
+party and really mess you up because
+
+594
+00:10:09,390 --> 00:10:09,400
+party and really mess you up because
+
+595
+00:10:09,400 --> 00:10:11,390
+party and really mess you up because
+even if you have half the leather gear
+
+596
+00:10:11,390 --> 00:10:11,400
+even if you have half the leather gear
+
+597
+00:10:11,400 --> 00:10:12,750
+even if you have half the leather gear
+that you're supposed to have, they're
+
+598
+00:10:12,750 --> 00:10:12,760
+that you're supposed to have, they're
+
+599
+00:10:12,760 --> 00:10:14,990
+that you're supposed to have, they're
+going to three-tap you. And the the
+
+600
+00:10:14,990 --> 00:10:15,000
+going to three-tap you. And the the
+
+601
+00:10:15,000 --> 00:10:16,870
+going to three-tap you. And the the
+telegraphs are inconsistent and uh it's
+
+602
+00:10:16,870 --> 00:10:16,880
+telegraphs are inconsistent and uh it's
+
+603
+00:10:16,880 --> 00:10:18,550
+telegraphs are inconsistent and uh it's
+just a miserable boss fight, if we're
+
+604
+00:10:18,550 --> 00:10:18,560
+just a miserable boss fight, if we're
+
+605
+00:10:18,560 --> 00:10:20,150
+just a miserable boss fight, if we're
+being honest. The way I beat it in the
+
+606
+00:10:20,150 --> 00:10:20,160
+being honest. The way I beat it in the
+
+607
+00:10:20,160 --> 00:10:22,910
+being honest. The way I beat it in the
+end was cheese it by building 300 arrows
+
+608
+00:10:22,910 --> 00:10:22,920
+end was cheese it by building 300 arrows
+
+609
+00:10:22,920 --> 00:10:24,630
+end was cheese it by building 300 arrows
+for my bow and arrow. And I don't even
+
+610
+00:10:24,630 --> 00:10:24,640
+for my bow and arrow. And I don't even
+
+611
+00:10:24,640 --> 00:10:26,390
+for my bow and arrow. And I don't even
+necessarily want to get down into it,
+
+612
+00:10:26,390 --> 00:10:26,400
+necessarily want to get down into it,
+
+613
+00:10:26,400 --> 00:10:28,270
+necessarily want to get down into it,
+but you know, examples are you he has
+
+614
+00:10:28,270 --> 00:10:28,280
+but you know, examples are you he has
+
+615
+00:10:28,280 --> 00:10:31,270
+but you know, examples are you he has
+like a mid-fight change of move set,
+
+616
+00:10:31,270 --> 00:10:31,280
+like a mid-fight change of move set,
+
+617
+00:10:31,280 --> 00:10:33,030
+like a mid-fight change of move set,
+introduces electricity that doesn't
+
+618
+00:10:33,030 --> 00:10:33,040
+introduces electricity that doesn't
+
+619
+00:10:33,040 --> 00:10:34,470
+introduces electricity that doesn't
+telegraph, there's no marker on the
+
+620
+00:10:34,470 --> 00:10:34,480
+telegraph, there's no marker on the
+
+621
+00:10:34,480 --> 00:10:36,230
+telegraph, there's no marker on the
+health bar. And then it's a really big,
+
+622
+00:10:36,230 --> 00:10:36,240
+health bar. And then it's a really big,
+
+623
+00:10:36,240 --> 00:10:38,150
+health bar. And then it's a really big,
+wide effect that just explodes. It's not
+
+624
+00:10:38,150 --> 00:10:38,160
+wide effect that just explodes. It's not
+
+625
+00:10:38,160 --> 00:10:39,670
+wide effect that just explodes. It's not
+like he winds up or anything like that.
+
+626
+00:10:39,670 --> 00:10:39,680
+like he winds up or anything like that.
+
+627
+00:10:39,680 --> 00:10:40,990
+like he winds up or anything like that.
+So, the first time you discover it is
+
+628
+00:10:40,990 --> 00:10:41,000
+So, the first time you discover it is
+
+629
+00:10:41,000 --> 00:10:42,750
+So, the first time you discover it is
+because it's going to beat you because
+
+630
+00:10:42,750 --> 00:10:42,760
+because it's going to beat you because
+
+631
+00:10:42,760 --> 00:10:44,390
+because it's going to beat you because
+you actually made progress on the boss
+
+632
+00:10:44,390 --> 00:10:44,400
+you actually made progress on the boss
+
+633
+00:10:44,400 --> 00:10:45,790
+you actually made progress on the boss
+fight. And that's not a really good way
+
+634
+00:10:45,790 --> 00:10:45,800
+fight. And that's not a really good way
+
+635
+00:10:45,800 --> 00:10:47,950
+fight. And that's not a really good way
+to look after your players' interests.
+
+636
+00:10:47,950 --> 00:10:47,960
+to look after your players' interests.
+
+637
+00:10:47,960 --> 00:10:49,950
+to look after your players' interests.
+But then you consider if you put a
+
+638
+00:10:49,950 --> 00:10:49,960
+But then you consider if you put a
+
+639
+00:10:49,960 --> 00:10:52,270
+But then you consider if you put a
+shield on, you can just block one of his
+
+640
+00:10:52,270 --> 00:10:52,280
+shield on, you can just block one of his
+
+641
+00:10:52,280 --> 00:10:55,110
+shield on, you can just block one of his
+moves, this sort of dive as a bird. In
+
+642
+00:10:55,110 --> 00:10:55,120
+moves, this sort of dive as a bird. In
+
+643
+00:10:55,120 --> 00:10:57,150
+moves, this sort of dive as a bird. In
+fact, you can counter timer it and get
+
+644
+00:10:57,150 --> 00:10:57,160
+fact, you can counter timer it and get
+
+645
+00:10:57,160 --> 00:10:59,670
+fact, you can counter timer it and get
+in a boost to melee damage. But his main
+
+646
+00:10:59,670 --> 00:10:59,680
+in a boost to melee damage. But his main
+
+647
+00:10:59,680 --> 00:11:01,070
+in a boost to melee damage. But his main
+sort of attack where he attacks the
+
+648
+00:11:01,070 --> 00:11:01,080
+sort of attack where he attacks the
+
+649
+00:11:01,080 --> 00:11:03,630
+sort of attack where he attacks the
+ground, you cannot block at all. Like it
+
+650
+00:11:03,630 --> 00:11:03,640
+ground, you cannot block at all. Like it
+
+651
+00:11:03,640 --> 00:11:05,710
+ground, you cannot block at all. Like it
+just goes through your shield and
+
+652
+00:11:05,710 --> 00:11:05,720
+just goes through your shield and
+
+653
+00:11:05,720 --> 00:11:07,510
+just goes through your shield and
+damages like half your health. And the
+
+654
+00:11:07,510 --> 00:11:07,520
+damages like half your health. And the
+
+655
+00:11:07,520 --> 00:11:09,470
+damages like half your health. And the
+rolling around dodging is so
+
+656
+00:11:09,470 --> 00:11:09,480
+rolling around dodging is so
+
+657
+00:11:09,480 --> 00:11:12,030
+rolling around dodging is so
+inconsistent. Like this game is trying
+
+658
+00:11:12,030 --> 00:11:12,040
+inconsistent. Like this game is trying
+
+659
+00:11:12,040 --> 00:11:15,430
+inconsistent. Like this game is trying
+to be a high-fidelity boss fight action
+
+660
+00:11:15,430 --> 00:11:15,440
+to be a high-fidelity boss fight action
+
+661
+00:11:15,440 --> 00:11:18,270
+to be a high-fidelity boss fight action
+combat game, but it doesn't have the
+
+662
+00:11:18,270 --> 00:11:18,280
+combat game, but it doesn't have the
+
+663
+00:11:18,280 --> 00:11:20,510
+combat game, but it doesn't have the
+chops to hang. And so I'd be curious how
+
+664
+00:11:20,510 --> 00:11:20,520
+chops to hang. And so I'd be curious how
+
+665
+00:11:20,520 --> 00:11:22,390
+chops to hang. And so I'd be curious how
+many people go the cheese route that I
+
+666
+00:11:22,390 --> 00:11:22,400
+many people go the cheese route that I
+
+667
+00:11:22,400 --> 00:11:23,829
+many people go the cheese route that I
+did, right? I figured out that you can
+
+668
+00:11:23,829 --> 00:11:23,839
+did, right? I figured out that you can
+
+669
+00:11:23,839 --> 00:11:26,190
+did, right? I figured out that you can
+charge the bow and arrow a little bit to
+
+670
+00:11:26,190 --> 00:11:26,200
+charge the bow and arrow a little bit to
+
+671
+00:11:26,200 --> 00:11:27,990
+charge the bow and arrow a little bit to
+get a bit more damage. And yeah, I
+
+672
+00:11:27,990 --> 00:11:28,000
+get a bit more damage. And yeah, I
+
+673
+00:11:28,000 --> 00:11:29,310
+get a bit more damage. And yeah, I
+killed the boss by shooting him with
+
+674
+00:11:29,310 --> 00:11:29,320
+killed the boss by shooting him with
+
+675
+00:11:29,320 --> 00:11:31,990
+killed the boss by shooting him with
+bloody 150 arrows. Not exactly how they
+
+676
+00:11:31,990 --> 00:11:32,000
+bloody 150 arrows. Not exactly how they
+
+677
+00:11:32,000 --> 00:11:33,910
+bloody 150 arrows. Not exactly how they
+intended it, I'm sure, and I bet you
+
+678
+00:11:33,910 --> 00:11:33,920
+intended it, I'm sure, and I bet you
+
+679
+00:11:33,920 --> 00:11:35,630
+intended it, I'm sure, and I bet you
+it's how most people play it. And as you
+
+680
+00:11:35,630 --> 00:11:35,640
+it's how most people play it. And as you
+
+681
+00:11:35,640 --> 00:11:37,630
+it's how most people play it. And as you
+can imagine, to come back and hopefully
+
+682
+00:11:37,630 --> 00:11:37,640
+can imagine, to come back and hopefully
+
+683
+00:11:37,640 --> 00:11:39,270
+can imagine, to come back and hopefully
+finish up on my UX point, cuz I don't
+
+684
+00:11:39,270 --> 00:11:39,280
+finish up on my UX point, cuz I don't
+
+685
+00:11:39,280 --> 00:11:40,390
+finish up on my UX point, cuz I don't
+want to talk about this bloody game
+
+686
+00:11:40,390 --> 00:11:40,400
+want to talk about this bloody game
+
+687
+00:11:40,400 --> 00:11:41,950
+want to talk about this bloody game
+anymore. When I first played the boss, I
+
+688
+00:11:41,950 --> 00:11:41,960
+anymore. When I first played the boss, I
+
+689
+00:11:41,960 --> 00:11:43,710
+anymore. When I first played the boss, I
+gave it a couple of goes, and you know,
+
+690
+00:11:43,710 --> 00:11:43,720
+gave it a couple of goes, and you know,
+
+691
+00:11:43,720 --> 00:11:44,790
+gave it a couple of goes, and you know,
+it's like dipping your toes in the
+
+692
+00:11:44,790 --> 00:11:44,800
+it's like dipping your toes in the
+
+693
+00:11:44,800 --> 00:11:46,190
+it's like dipping your toes in the
+water. You're a gamer, you know what's
+
+694
+00:11:46,190 --> 00:11:46,200
+water. You're a gamer, you know what's
+
+695
+00:11:46,200 --> 00:11:47,670
+water. You're a gamer, you know what's
+going on, and you figure out pretty
+
+696
+00:11:47,670 --> 00:11:47,680
+going on, and you figure out pretty
+
+697
+00:11:47,680 --> 00:11:49,150
+going on, and you figure out pretty
+quickly that this dude is a fucking
+
+698
+00:11:49,150 --> 00:11:49,160
+quickly that this dude is a fucking
+
+699
+00:11:49,160 --> 00:11:51,550
+quickly that this dude is a fucking
+bullet sponge with kind of unpleasant
+
+700
+00:11:51,550 --> 00:11:51,560
+bullet sponge with kind of unpleasant
+
+701
+00:11:51,560 --> 00:11:53,830
+bullet sponge with kind of unpleasant
+timers. The chances are you're going to
+
+702
+00:11:53,830 --> 00:11:53,840
+timers. The chances are you're going to
+
+703
+00:11:53,840 --> 00:11:56,310
+timers. The chances are you're going to
+do the same internal decision as I am,
+
+704
+00:11:56,310 --> 00:11:56,320
+do the same internal decision as I am,
+
+705
+00:11:56,320 --> 00:11:58,390
+do the same internal decision as I am,
+which is this probably isn't where I'm
+
+706
+00:11:58,390 --> 00:11:58,400
+which is this probably isn't where I'm
+
+707
+00:11:58,400 --> 00:12:00,310
+which is this probably isn't where I'm
+supposed to be at right now. I mean, it
+
+708
+00:12:00,310 --> 00:12:00,320
+supposed to be at right now. I mean, it
+
+709
+00:12:00,320 --> 00:12:02,750
+supposed to be at right now. I mean, it
+is, but you, with your gamer intuition,
+
+710
+00:12:02,750 --> 00:12:02,760
+is, but you, with your gamer intuition,
+
+711
+00:12:02,760 --> 00:12:04,270
+is, but you, with your gamer intuition,
+are probably going to go and explore the
+
+712
+00:12:04,270 --> 00:12:04,280
+are probably going to go and explore the
+
+713
+00:12:04,280 --> 00:12:05,550
+are probably going to go and explore the
+rest of the map, and that's what I did.
+
+714
+00:12:05,550 --> 00:12:05,560
+rest of the map, and that's what I did.
+
+715
+00:12:05,560 --> 00:12:07,430
+rest of the map, and that's what I did.
+I just started exploring other biomes. I
+
+716
+00:12:07,430 --> 00:12:07,440
+I just started exploring other biomes. I
+
+717
+00:12:07,440 --> 00:12:09,990
+I just started exploring other biomes. I
+found like a weird dungeon that would
+
+718
+00:12:09,990 --> 00:12:10,000
+found like a weird dungeon that would
+
+719
+00:12:10,000 --> 00:12:12,230
+found like a weird dungeon that would
+lock you in, and it was way too high
+
+720
+00:12:12,230 --> 00:12:12,240
+lock you in, and it was way too high
+
+721
+00:12:12,240 --> 00:12:14,190
+lock you in, and it was way too high
+level, but you couldn't get out of it.
+
+722
+00:12:14,190 --> 00:12:14,200
+level, but you couldn't get out of it.
+
+723
+00:12:14,200 --> 00:12:15,390
+level, but you couldn't get out of it.
+But then all of a sudden, for some
+
+724
+00:12:15,390 --> 00:12:15,400
+But then all of a sudden, for some
+
+725
+00:12:15,400 --> 00:12:16,790
+But then all of a sudden, for some
+reason, I could get out of it when I
+
+726
+00:12:16,790 --> 00:12:16,800
+reason, I could get out of it when I
+
+727
+00:12:16,800 --> 00:12:18,710
+reason, I could get out of it when I
+grind against it, but then my dude would
+
+728
+00:12:18,710 --> 00:12:18,720
+grind against it, but then my dude would
+
+729
+00:12:18,720 --> 00:12:19,950
+grind against it, but then my dude would
+glitch through a wall and die
+
+730
+00:12:19,950 --> 00:12:19,960
+glitch through a wall and die
+
+731
+00:12:19,960 --> 00:12:22,550
+glitch through a wall and die
+consistently trying to get my loot out
+
+732
+00:12:22,550 --> 00:12:22,560
+consistently trying to get my loot out
+
+733
+00:12:22,560 --> 00:12:24,710
+consistently trying to get my loot out
+of the dungeon.
+
+734
+00:12:24,710 --> 00:12:24,720
+of the dungeon.
+
+735
+00:12:24,720 --> 00:12:26,950
+of the dungeon.
+So yeah, if you followed the obscured,
+
+736
+00:12:26,950 --> 00:12:26,960
+So yeah, if you followed the obscured,
+
+737
+00:12:26,960 --> 00:12:29,230
+So yeah, if you followed the obscured,
+obfuscated critical path that the devs
+
+738
+00:12:29,230 --> 00:12:29,240
+obfuscated critical path that the devs
+
+739
+00:12:29,240 --> 00:12:30,950
+obfuscated critical path that the devs
+have in their mind that they have done
+
+740
+00:12:30,950 --> 00:12:30,960
+have in their mind that they have done
+
+741
+00:12:30,960 --> 00:12:34,150
+have in their mind that they have done
+everything to not intuit to the player,
+
+742
+00:12:34,150 --> 00:12:34,160
+everything to not intuit to the player,
+
+743
+00:12:34,160 --> 00:12:36,510
+everything to not intuit to the player,
+then maybe you would be quicker to beat
+
+744
+00:12:36,510 --> 00:12:36,520
+then maybe you would be quicker to beat
+
+745
+00:12:36,520 --> 00:12:38,790
+then maybe you would be quicker to beat
+that first boss, and then in turn unlock
+
+746
+00:12:38,790 --> 00:12:38,800
+that first boss, and then in turn unlock
+
+747
+00:12:38,800 --> 00:12:40,910
+that first boss, and then in turn unlock
+more upgrades, cuz me beating that boss
+
+748
+00:12:40,910 --> 00:12:40,920
+more upgrades, cuz me beating that boss
+
+749
+00:12:40,920 --> 00:12:43,150
+more upgrades, cuz me beating that boss
+then tripped more blueprints, more
+
+750
+00:12:43,150 --> 00:12:43,160
+then tripped more blueprints, more
+
+751
+00:12:43,160 --> 00:12:44,990
+then tripped more blueprints, more
+buildings that I can unlock, right? And
+
+752
+00:12:44,990 --> 00:12:45,000
+buildings that I can unlock, right? And
+
+753
+00:12:45,000 --> 00:12:46,750
+buildings that I can unlock, right? And
+then the game's opening up, go help
+
+754
+00:12:46,750 --> 00:12:46,760
+then the game's opening up, go help
+
+755
+00:12:46,760 --> 00:12:48,590
+then the game's opening up, go help
+other gods or whatever. Presumably it's
+
+756
+00:12:48,590 --> 00:12:48,600
+other gods or whatever. Presumably it's
+
+757
+00:12:48,600 --> 00:12:50,470
+other gods or whatever. Presumably it's
+a little bit Shadow of the Colossus, go
+
+758
+00:12:50,470 --> 00:12:50,480
+a little bit Shadow of the Colossus, go
+
+759
+00:12:50,480 --> 00:12:52,070
+a little bit Shadow of the Colossus, go
+to the corners of the globe and beat
+
+760
+00:12:52,070 --> 00:12:52,080
+to the corners of the globe and beat
+
+761
+00:12:52,080 --> 00:12:54,150
+to the corners of the globe and beat
+these bosses, right? And now I've got
+
+762
+00:12:54,150 --> 00:12:54,160
+these bosses, right? And now I've got
+
+763
+00:12:54,160 --> 00:12:55,590
+these bosses, right? And now I've got
+some more buildings available, but by
+
+764
+00:12:55,590 --> 00:12:55,600
+some more buildings available, but by
+
+765
+00:12:55,600 --> 00:12:57,950
+some more buildings available, but by
+the time I got to that point, I'm
+
+766
+00:12:57,950 --> 00:12:57,960
+the time I got to that point, I'm
+
+767
+00:12:57,960 --> 00:13:00,790
+the time I got to that point, I'm
+exhausted. I'm hours in, I'm kind of
+
+768
+00:13:00,790 --> 00:13:00,800
+exhausted. I'm hours in, I'm kind of
+
+769
+00:13:00,800 --> 00:13:03,630
+exhausted. I'm hours in, I'm kind of
+miserable, and I don't want to play the
+
+770
+00:13:03,630 --> 00:13:03,640
+miserable, and I don't want to play the
+
+771
+00:13:03,640 --> 00:13:05,790
+miserable, and I don't want to play the
+game, regardless of whether it's a genre
+
+772
+00:13:05,790 --> 00:13:05,800
+game, regardless of whether it's a genre
+
+773
+00:13:05,800 --> 00:13:07,710
+game, regardless of whether it's a genre
+for me. So Remnants did, it's got
+
+774
+00:13:07,710 --> 00:13:07,720
+for me. So Remnants did, it's got
+
+775
+00:13:07,720 --> 00:13:09,829
+for me. So Remnants did, it's got
+problems, and it's got the sort of
+
+776
+00:13:09,829 --> 00:13:09,839
+problems, and it's got the sort of
+
+777
+00:13:09,839 --> 00:13:12,030
+problems, and it's got the sort of
+problems, i.e. the disconnect of the
+
+778
+00:13:12,030 --> 00:13:12,040
+problems, i.e. the disconnect of the
+
+779
+00:13:12,040 --> 00:13:14,750
+problems, i.e. the disconnect of the
+developer telegraphing their game to a
+
+780
+00:13:14,750 --> 00:13:14,760
+developer telegraphing their game to a
+
+781
+00:13:14,760 --> 00:13:17,150
+developer telegraphing their game to a
+player who is trying their best to
+
+782
+00:13:17,150 --> 00:13:17,160
+player who is trying their best to
+
+783
+00:13:17,160 --> 00:13:19,230
+player who is trying their best to
+intuit on like good faith what they are
+
+784
+00:13:19,230 --> 00:13:19,240
+intuit on like good faith what they are
+
+785
+00:13:19,240 --> 00:13:20,750
+intuit on like good faith what they are
+supposed to do, and because of that
+
+786
+00:13:20,750 --> 00:13:20,760
+supposed to do, and because of that
+
+787
+00:13:20,760 --> 00:13:23,310
+supposed to do, and because of that
+disconnect, I can only imagine the next
+
+788
+00:13:23,310 --> 00:13:23,320
+disconnect, I can only imagine the next
+
+789
+00:13:23,320 --> 00:13:25,070
+disconnect, I can only imagine the next
+half a dozen to dozen hours are they're
+
+790
+00:13:25,070 --> 00:13:25,080
+half a dozen to dozen hours are they're
+
+791
+00:13:25,080 --> 00:13:27,710
+half a dozen to dozen hours are they're
+to be equally difficult and teeth
+
+792
+00:13:27,710 --> 00:13:27,720
+to be equally difficult and teeth
+
+793
+00:13:27,720 --> 00:13:30,430
+to be equally difficult and teeth
+pulling of an exercise. So, my advice,
+
+794
+00:13:30,430 --> 00:13:30,440
+pulling of an exercise. So, my advice,
+
+795
+00:13:30,440 --> 00:13:32,270
+pulling of an exercise. So, my advice,
+make sure you're really into this genre,
+
+796
+00:13:32,270 --> 00:13:32,280
+make sure you're really into this genre,
+
+797
+00:13:32,280 --> 00:13:34,070
+make sure you're really into this genre,
+right? You've played 10 billion hours of
+
+798
+00:13:34,070 --> 00:13:34,080
+right? You've played 10 billion hours of
+
+799
+00:13:34,080 --> 00:13:36,790
+right? You've played 10 billion hours of
+Necesse or Terraria or whatever. You
+
+800
+00:13:36,790 --> 00:13:36,800
+Necesse or Terraria or whatever. You
+
+801
+00:13:36,800 --> 00:13:38,590
+Necesse or Terraria or whatever. You
+probably got a group of mates that you
+
+802
+00:13:38,590 --> 00:13:38,600
+probably got a group of mates that you
+
+803
+00:13:38,600 --> 00:13:41,430
+probably got a group of mates that you
+play with. And even then, maybe get this
+
+804
+00:13:41,430 --> 00:13:41,440
+play with. And even then, maybe get this
+
+805
+00:13:41,440 --> 00:13:44,150
+play with. And even then, maybe get this
+on sale. Make sure you really know what
+
+806
+00:13:44,150 --> 00:13:44,160
+on sale. Make sure you really know what
+
+807
+00:13:44,160 --> 00:13:45,630
+on sale. Make sure you really know what
+you're getting into before you pull the
+
+808
+00:13:45,630 --> 00:13:45,640
+you're getting into before you pull the
+
+809
+00:13:45,640 --> 00:13:47,230
+you're getting into before you pull the
+trigger. Anyway, I think I've said my
+
+810
+00:13:47,230 --> 00:13:47,240
+trigger. Anyway, I think I've said my
+
+811
+00:13:47,240 --> 00:13:49,670
+trigger. Anyway, I think I've said my
+piece. What an exercise in frustration.
+
+812
+00:13:49,670 --> 00:13:49,680
+piece. What an exercise in frustration.
+
+813
+00:13:49,680 --> 00:13:51,430
+piece. What an exercise in frustration.
+At your own risk, team. Much as I leave
+
+814
+00:13:51,430 --> 00:13:51,440
+At your own risk, team. Much as I leave
+
+815
+00:13:51,440 --> 00:13:52,270
+At your own risk, team. Much as I leave
+it there for the time being and I'll
+
+816
+00:13:52,270 --> 00:13:52,280
+it there for the time being and I'll
+
+817
+00:13:52,280 --> 00:13:55,480
+it there for the time being and I'll
+catch you guys on the next one.
