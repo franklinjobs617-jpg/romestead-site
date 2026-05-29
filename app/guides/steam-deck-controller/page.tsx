@@ -44,8 +44,8 @@ export default function SteamDeckControllerGuide() {
 
       {/* YouTube Embed */}
       <YouTubeEmbed
-        videoId="40AnkU__t54"
-        title="Romestead Steam Deck Gameplay"
+        videoId="yqX7OkvfsJo"
+        title="Romestead Official Early Access Launch Trailer"
       />
 
       {/* Intro */}

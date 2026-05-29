@@ -45,8 +45,8 @@ export default function TipsTricksGuide() {
 
       {/* YouTube Embed */}
       <YouTubeEmbed
-        videoId="40AnkU__t54"
-        title="Romestead Tips and Tricks"
+        videoId="InyayTN4_Cw"
+        title="ROMESTEAD Lives Up To The Hype Review"
       />
 
       {/* Intro */}

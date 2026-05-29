@@ -43,8 +43,8 @@ export default function MultiplayerDedicatedServerGuide() {
 
       {/* YouTube Embed */}
       <YouTubeEmbed
-        videoId="40AnkU__t54"
-        title="Romestead Multiplayer Gameplay"
+        videoId="83y6TcBdTR8"
+        title="This New Base Building Survival RPG Has Massive Potential - Romestead"
       />
 
       {/* Intro */}

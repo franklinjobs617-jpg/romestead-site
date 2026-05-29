@@ -45,8 +45,8 @@ export default function BestClassProfessionGuide() {
 
       {/* YouTube Embed */}
       <YouTubeEmbed
-        videoId="40AnkU__t54"
-        title="Romestead Best Class & Profession Guide"
+        videoId="bsqMbki1PWQ"
+        title="Romestead Worth Your Time and Money Overview"
       />
 
       {/* Intro */}
