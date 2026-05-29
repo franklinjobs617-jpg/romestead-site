@@ -610,7 +610,7 @@ export default function WeaponsPage() {
           <StatPill label="Top burst" value="Iron Pilum" />
         </div>
         <p className="mt-5 text-xs text-ash">
-          Source checked May 2026:{" "}
+          Source checked May 29, 2026:{" "}
           <a
             href="https://romestead.wiki.gg/wiki/Weapons"
             target="_blank"

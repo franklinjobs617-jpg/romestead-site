@@ -19,7 +19,7 @@ export default async function WikiSubPage({
           href="/wiki"
           className="text-ember hover:text-ember-dark text-sm mb-6 inline-block"
         >
-          ← Back to Wiki
+           - Back to Wiki
         </Link>
         <h1 className="font-cinzel text-4xl text-parchment-light mb-4">
           {title}

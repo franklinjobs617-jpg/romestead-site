@@ -10,11 +10,11 @@ export const metadata: Metadata = {
     template: "%s | Romestead Guide",
   },
   description:
-    "Romestead guides, wiki data, crafting recipes, boss strategies, weapons, armor, biomes, and progression tips.",
+    "Romestead guides and wiki for building order, farming, crafting, weapons, armor, bosses, biomes, co-op, and progression decisions.",
   openGraph: {
     title: "Romestead Guide - Guides & Wiki",
     description:
-      "Romestead guides, wiki data, crafting recipes, boss strategies, weapons, armor, biomes, and progression tips.",
+      "Romestead guides and wiki for building order, farming, crafting, weapons, armor, bosses, biomes, co-op, and progression decisions.",
     url: "https://romesteadguide.top",
     siteName: "Romestead Guide",
     type: "website",

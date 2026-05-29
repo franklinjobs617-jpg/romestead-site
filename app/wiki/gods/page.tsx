@@ -167,7 +167,7 @@ export default function GodsPage() {
         Romestead Gods & Altars Guide: All 7 Gods, Offerings & Worship Rewards
       </h1>
       <p className="text-ash text-sm mb-6">
-        Updated May 2026 &middot; Early Access Build
+        Updated May 29, 2026 &middot; Early Access Build
       </p>
 
       <div className="my-8 rounded-md overflow-hidden border border-stone-medium">
@@ -193,7 +193,7 @@ export default function GodsPage() {
           Each god has different preferences, though the exact offerings are still being documented.
         </p>
         <ul>
-          <li><strong>Only one Blessing can be active at a time</strong> — choose wisely based on your playstyle</li>
+          <li><strong>Only one Blessing can be active at a time</strong>  - choose wisely based on your playstyle</li>
           <li><strong>Worship points</strong> are spent to unlock tiers (costs increase: 1, 2, 3 points per tier)</li>
           <li><strong>All bonuses apply to all players</strong> in multiplayer sessions</li>
         </ul>
@@ -226,11 +226,11 @@ export default function GodsPage() {
         <h2 id="tips">Worship Tips</h2>
         <ul>
           <li><strong>Early game:</strong> Worship Vulcan first to unlock Quarry (essential for stone)</li>
-          <li><strong>Farming focus:</strong> Ceres is essential — unlocks Farmstead, Bakery, and crop bonuses</li>
+          <li><strong>Farming focus:</strong> Ceres is essential  - unlocks Farmstead, Bakery, and crop bonuses</li>
           <li><strong>Ranged builds:</strong> Diana provides the best ranged damage bonuses</li>
           <li><strong>Melee builds:</strong> Mars gives melee damage, crit chance, and armor</li>
           <li><strong>Magic builds:</strong> Mercury is the best choice for magic damage</li>
-          <li><strong>Multiplayer:</strong> Coordinate which Blessing is active — only one can be active at a time</li>
+          <li><strong>Multiplayer:</strong> Coordinate which Blessing is active  - only one can be active at a time</li>
           <li><strong>Don&apos;t waste offerings:</strong> Follow the questline rather than experimenting with random items</li>
         </ul>
       </div>

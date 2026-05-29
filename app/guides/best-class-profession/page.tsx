@@ -40,7 +40,7 @@ export default function BestClassProfessionGuide() {
         Builds, Citizen Jobs &amp; Workplaces
       </h1>
       <p className="text-ash text-sm mb-6">
-        Updated May 2026 &middot; Early Access Build
+        Updated May 29, 2026 &middot; Early Access Build
       </p>
 
       {/* YouTube Embed */}
@@ -53,12 +53,10 @@ export default function BestClassProfessionGuide() {
       <div className="prose-romestead">
         <p>
           Romestead, developed by <strong>Beartwigs</strong> and published by{" "}
-          <strong>Three Friends</strong>, launched into Early Access in May
-          2026. This top-down pixel-art colony builder drops players into a
+          <strong>Three Friends</strong>, launched into Early Access on May 26, 2026 at 06:31 UTC. This top-down pixel-art colony builder drops players into a
           fallen Roman world overrun by nightly zombie incursions. While the
           game&apos;s Steam trailer emphasizes bustling autonomous towns, the
-          reality of its profession and citizen systems is far more hands-on —
-          and often confusing for new players. In this guide, we break down
+          reality of its profession and citizen systems is far more hands-on  -           and often confusing for new players. In this guide, we break down
           exactly how starting character bonuses work, what each profession
           actually does, and how to build an efficient colony workforce based on
           the current Early Access build.
@@ -69,11 +67,10 @@ export default function BestClassProfessionGuide() {
       <div id="quick-answer">
         <QuickAnswer>
           <p>
-            In Romestead&apos;s May 2026 Early Access build, starting class
+            In Romestead&apos;s Early Access build checked May 29, 2026, starting class
             bonuses (e.g., +5 Melee) have minimal impact. Your true
             &quot;profession&quot; comes from workplace buildings like Lumberjack
-            and Leather Worker, but citizens only generate resources passively —
-            they do not hunt, gather, or cook.
+            and Leather Worker, but citizens only generate resources passively  -             they do not hunt, gather, or cook.
           </p>
         </QuickAnswer>
       </div>
@@ -137,7 +134,7 @@ export default function BestClassProfessionGuide() {
           <li>You must provide food for every citizen, employed or not.</li>
         </ol>
         <p>
-          <strong>Critical limitation (Early Access May 2026):</strong> Citizens
+          <strong>Critical limitation (checked May 29, 2026):</strong> Citizens
           are <strong>passive resource generators</strong>, not autonomous NPCs.
           They do not:
         </p>
@@ -355,7 +352,7 @@ export default function BestClassProfessionGuide() {
           Q: Does Romestead support dedicated servers for multiplayer?
         </h3>
         <p>
-          As of the May 2026 Early Access build, Romestead supports{" "}
+          As of the Early Access build checked May 29, 2026, Romestead supports{" "}
           <strong>1 to 8 player co-op</strong>. The reviewer confirmed the game
           scales from solo play up to eight players. However, there is currently{" "}
           <strong>
@@ -384,7 +381,7 @@ export default function BestClassProfessionGuide() {
           Q: Can you move buildings after placing them in Romestead?
         </h3>
         <p>
-          In the current May 2026 Early Access build, there is{" "}
+          In the current Early Access build checked May 29, 2026, there is{" "}
           <strong>no confirmed building relocation mechanic</strong>. Once a
           structure is placed, it appears to be permanent. The video footage
           shows buildings being constructed from scratch with no &quot;move&quot;

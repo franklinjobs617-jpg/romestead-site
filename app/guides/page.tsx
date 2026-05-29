@@ -1,5 +1,13 @@
 import Image from "next/image";
 import Link from "next/link";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Romestead Guides",
+  description:
+    "Romestead guides for class choice, co-op, Steam Deck, building order, farming, crafting, boss prep, and mistakes to avoid in Early Access.",
+  alternates: { canonical: "/guides" },
+};
 
 const guides = [
   {
@@ -8,7 +16,7 @@ const guides = [
     fullTitle: "How to Choose the Best Class & Profession in Romestead",
     description:
       "Starting bonuses, citizen jobs, workplace buildings, and the fastest way to avoid a useless food-draining colony.",
-    date: "May 2026",
+    date: "May 29, 2026",
     tag: "BEGINNER",
     readTime: "9 min",
     image: "/images/screenshots/village-overview.webp",
@@ -20,7 +28,7 @@ const guides = [
     fullTitle: "Romestead on Steam Deck: Compatibility, Controller & Best Settings",
     description:
       "Compatibility status, controller expectations, system requirements, and practical handheld settings.",
-    date: "May 2026",
+    date: "May 29, 2026",
     tag: "TECHNICAL",
     readTime: "5 min",
     image: "/images/screenshots/starter-village.webp",
@@ -32,7 +40,7 @@ const guides = [
     fullTitle: "Romestead Multiplayer & Co-op Guide: How to Play With Friends",
     description:
       "Co-op setup, dedicated server reality, scaling, role specialization, and shared settlement planning.",
-    date: "May 2026",
+    date: "May 29, 2026",
     tag: "MULTIPLAYER",
     readTime: "7 min",
     image: "/images/screenshots/multiplayer-coop.webp",
@@ -44,7 +52,7 @@ const guides = [
     fullTitle: "Romestead Tips & Tricks: Everything I Wish I Knew Before Playing",
     description:
       "Resource transport, cart priority, building layout, combat prep, farming chains, and common mistakes.",
-    date: "May 2026",
+    date: "May 29, 2026",
     tag: "TIPS",
     readTime: "12 min",
     image: "/images/screenshots/transport-cart.webp",

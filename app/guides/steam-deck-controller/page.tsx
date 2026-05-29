@@ -39,7 +39,7 @@ export default function SteamDeckControllerGuide() {
         Romestead on Steam Deck: Compatibility, Controller Support & Best Settings (2026)
       </h1>
       <p className="text-ash text-sm mb-6">
-        Updated May 2026 &middot; Early Access Build
+        Updated May 29, 2026 &middot; Early Access Build
       </p>
 
       {/* YouTube Embed */}
@@ -52,7 +52,7 @@ export default function SteamDeckControllerGuide() {
       <div className="prose-romestead">
         <p>
           Romestead, the pixel-art survival colony builder by <strong>Beartwigs</strong> and{" "}
-          <strong>Three Friends</strong>, launched into Early Access in May 2026. Many players are
+          <strong>Three Friends</strong>, launched into Early Access on May 26, 2026 at 06:31 UTC. Many players are
           asking: <strong>does Romestead work on Steam Deck?</strong> And does it have controller
           support? In this guide, we cover everything you need to know about playing Romestead on
           handheld devices, including compatibility status, recommended settings, and workarounds
@@ -64,7 +64,7 @@ export default function SteamDeckControllerGuide() {
       <div id="quick-answer">
         <QuickAnswer>
           <p>
-            As of May 2026, Romestead is <strong>not officially Steam Deck verified</strong>. The
+            As of May 29, 2026, Romestead is <strong>not officially Steam Deck verified</strong>. The
             game&apos;s UI relies heavily on mouse-driven inventory management and precise building
             placement, making controller play challenging. However, it is{" "}
             <strong>playable with Steam Input customization</strong>. Native controller support has
@@ -109,7 +109,7 @@ export default function SteamDeckControllerGuide() {
         <h2 id="controller-support">Controller Support Status</h2>
         <p>
           Native controller support is <strong>not implemented</strong> in the current Early Access
-          build (May 2026). The game is built around mouse-and-keyboard input:
+          build checked May 29, 2026. The game is built around mouse-and-keyboard input:
         </p>
         <ul>
           <li>
@@ -314,7 +314,7 @@ export default function SteamDeckControllerGuide() {
 
         <h3>Q: Is Romestead on Xbox or PlayStation?</h3>
         <p>
-          As of May 2026, Romestead is <strong>PC only (Steam)</strong>. There has been no official
+          As of May 29, 2026, Romestead is <strong>PC only (Steam)</strong>. There has been no official
           announcement regarding console ports. The developers have focused on the PC Early Access
           release first. Console releases, if they happen, would likely come after the full 1.0
           launch.

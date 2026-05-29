@@ -38,7 +38,7 @@ export default function MultiplayerDedicatedServerGuide() {
         Romestead Multiplayer &amp; Co-op Guide: How to Play With Friends (2026)
       </h1>
       <p className="text-ash text-sm mb-6">
-        Updated May 2026 &middot; Early Access Build
+        Updated May 29, 2026 &middot; Early Access Build
       </p>
 
       {/* YouTube Embed */}
@@ -51,7 +51,7 @@ export default function MultiplayerDedicatedServerGuide() {
       <div className="prose-romestead">
         <p>
           Romestead is a <strong>1-8 player co-op survival colony builder</strong> set in a fallen
-          Roman world. Playing with friends dramatically changes the experience — tasks that feel
+          Roman world. Playing with friends dramatically changes the experience  - tasks that feel
           like a grind solo become manageable with a team. In this guide, we cover how multiplayer
           works, how to set up sessions, role specialization strategies, and whether dedicated
           servers are available.
@@ -62,8 +62,7 @@ export default function MultiplayerDedicatedServerGuide() {
       <div id="quick-answer">
         <QuickAnswer>
           <p>
-            Romestead supports <strong>1-8 player online co-op</strong> in the May 2026 Early
-            Access build. Sessions use <strong>peer-to-peer or hosted lobbies</strong> — there is
+            Romestead supports <strong>1-8 player online co-op</strong> in the Early Access build checked May 29, 2026. Sessions use <strong>peer-to-peer or hosted lobbies</strong>  - there is
             currently <strong>no official dedicated server software</strong>. The host player must
             be online for others to play. Difficulty scales with player count.
           </p>
@@ -142,7 +141,7 @@ export default function MultiplayerDedicatedServerGuide() {
 
         <h2 id="dedicated-server">Dedicated Server: Is It Available?</h2>
         <p>
-          As of May 2026, there is <strong>no official dedicated server software</strong> for
+          As of May 29, 2026, there is <strong>no official dedicated server software</strong> for
           Romestead. The developers at Beartwigs / Three Friends have not released server files or
           documentation for self-hosting.
         </p>

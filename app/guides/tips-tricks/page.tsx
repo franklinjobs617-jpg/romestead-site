@@ -40,7 +40,7 @@ export default function TipsTricksGuide() {
         Romestead Tips &amp; Tricks: Everything I Wish I Knew Before Playing (2026)
       </h1>
       <p className="text-ash text-sm mb-6">
-        Updated May 2026 &middot; Early Access Build
+        Updated May 29, 2026 &middot; Early Access Build
       </p>
 
       {/* YouTube Embed */}
@@ -66,7 +66,7 @@ export default function TipsTricksGuide() {
           <p>
             The single most important tip: <strong>do not build houses without matching
             workplaces</strong>. Unemployed citizens drain food and provide nothing. Also,{" "}
-            <strong>rush the cart technology</strong> — it is the biggest quality-of-life upgrade
+            <strong>rush the cart technology</strong>  - it is the biggest quality-of-life upgrade
             in the game. And <strong>always cook food before storing it</strong>; citizens will not
             cook for themselves.
           </p>
@@ -77,7 +77,7 @@ export default function TipsTricksGuide() {
       <div className="prose-romestead">
         <h2 id="resource-tips">Resource &amp; Transport Tips</h2>
 
-        <h3>Carry One Log at a Time — Then Get the Cart</h3>
+        <h3>Carry One Log at a Time  - Then Get the Cart</h3>
         <p>
           In Romestead, logs and rocks are <strong>physical objects</strong>, not inventory items.
           You pick them up, carry them on your shoulder, and drop them at your build site. Early
@@ -102,7 +102,7 @@ export default function TipsTricksGuide() {
         <p>
           Sticks are used for arrows and other crafting. To get sticks quickly, pick up{" "}
           <strong>rocks and throw them at trees</strong>. The impact knocks sticks loose. Find a
-          rhythm where you can pick up and re-throw without repositioning — the rock bounces
+          rhythm where you can pick up and re-throw without repositioning  - the rock bounces
           unpredictably, so staying in one spot helps.
         </p>
 
@@ -159,11 +159,11 @@ export default function TipsTricksGuide() {
         <p>
           Every house attracts a citizen. Every citizen needs food. If you build a house without a
           matching workplace (Lumberjack, Leather Worker, etc.), that citizen is{" "}
-          <strong>unemployed — eating your food for zero benefit</strong>. Only build houses when
+          <strong>unemployed  - eating your food for zero benefit</strong>. Only build houses when
           you have a workplace ready.
         </p>
 
-        <h3>Citizens Are Passive — Do Everything Yourself</h3>
+        <h3>Citizens Are Passive  - Do Everything Yourself</h3>
         <p>
           A critical misunderstanding: citizens in Romestead are{" "}
           <strong>passive resource generators</strong>, not autonomous workers. They do not:
@@ -185,7 +185,7 @@ export default function TipsTricksGuide() {
         <h3>Dodge Rolling Is Your Best Friend</h3>
         <p>
           Romestead has a dodge roll mechanic (press Space). Use it liberally. Most enemy attacks
-          have a wind-up animation — dodge through the attack, not away from it. This positions
+          have a wind-up animation  - dodge through the attack, not away from it. This positions
           you behind the enemy for a counter-attack.
         </p>
 
@@ -200,11 +200,11 @@ export default function TipsTricksGuide() {
         <p>
           Scrolls drop from enemies, dungeons, and chests. They provide powerful magic attacks like
           <strong> bolt</strong> (ranged damage) and <strong>ray of frost</strong> (slow effect).
-          Save these for tough fights — they are consumables, so do not waste them on basic
+          Save these for tough fights  - they are consumables, so do not waste them on basic
           zombies.
         </p>
 
-        <h3>The Boss Is Meant to Be Hard — Prepare Properly</h3>
+        <h3>The Boss Is Meant to Be Hard  - Prepare Properly</h3>
         <p>
           The first boss (the giant bird) is a significant difficulty spike. Do not attempt it
           until you have:
@@ -244,7 +244,7 @@ export default function TipsTricksGuide() {
           them.
         </p>
 
-        <h3>The Food Chain: Wheat → Flour → Bread</h3>
+        <h3>The Food Chain: Wheat  - Flour  - Bread</h3>
         <p>
           The basic food production chain works like this:
         </p>
@@ -354,7 +354,7 @@ export default function TipsTricksGuide() {
         <h3>NPCs Will Steal Your Stuff</h3>
         <p>
           Small NPC creatures in the world will <strong>pick up and carry away items you leave on
-          the ground</strong>. They will take anything — resources, gear, even animals. One player
+          the ground</strong>. They will take anything  - resources, gear, even animals. One player
           reported seeing an NPC pick up a squirrel and walk away with it on its head. If you drop
           items, pick them up quickly or store them in chests.
         </p>
@@ -362,7 +362,7 @@ export default function TipsTricksGuide() {
         <h3>Break Everything for Hidden Chests</h3>
         <p>
           Almost every breakable object in the game has a chance to contain a{" "}
-          <strong>hidden chest</strong>. Bushes, rocks, crates — smash them all. Chests contain
+          <strong>hidden chest</strong>. Bushes, rocks, crates  - smash them all. Chests contain
           random loot including gear, relics, and god offerings.
         </p>
 
@@ -386,9 +386,9 @@ export default function TipsTricksGuide() {
           becomes. Each biome has its own:
         </p>
         <ul>
-          <li><strong>Crafting tier</strong> — new resources and recipes</li>
-          <li><strong>Enemy types</strong> — stronger and more varied</li>
-          <li><strong>Atmosphere</strong> — from peaceful plains to dark, dangerous regions</li>
+          <li><strong>Crafting tier</strong>  - new resources and recipes</li>
+          <li><strong>Enemy types</strong>  - stronger and more varied</li>
+          <li><strong>Atmosphere</strong>  - from peaceful plains to dark, dangerous regions</li>
         </ul>
         <p>
           You need to explore to progress. Staying in the starting area will lock you out of
@@ -434,7 +434,7 @@ export default function TipsTricksGuide() {
 
         <h3>Q: How do I move buildings in Romestead?</h3>
         <p>
-          You <strong>cannot move buildings</strong> in the current Early Access build (May 2026).
+          You <strong>cannot move buildings</strong> in the current Early Access build checked May 29, 2026.
           Once placed, structures are permanent. Plan your layout carefully before committing
           resources.
         </p>
@@ -448,7 +448,7 @@ export default function TipsTricksGuide() {
 
         <h3>Q: What is the best weapon early game?</h3>
         <p>
-          The <strong>spear</strong> is a solid early weapon — good range and decent damage. The{" "}
+          The <strong>spear</strong> is a solid early weapon  - good range and decent damage. The{" "}
           <strong>bow</strong> is essential for boss fights (charged shots). Avoid the rusty
           starting weapon as soon as possible; craft a copper-tier weapon at the blacksmith.
         </p>
@@ -463,7 +463,7 @@ export default function TipsTricksGuide() {
         <h3>Q: Why are my citizens starving?</h3>
         <p>
           Check your food storage. If it contains <strong>raw food</strong>, citizens cannot eat it
-          — they need cooked food. Also, unemployed citizens still consume food, so make sure every
+           - they need cooked food. Also, unemployed citizens still consume food, so make sure every
           citizen has a job.
         </p>
       </div>

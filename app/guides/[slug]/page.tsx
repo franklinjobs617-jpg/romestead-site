@@ -26,7 +26,7 @@ export default async function GuideSubPage({
           href="/guides"
           className="text-ember hover:text-ember-dark text-sm mb-6 inline-block"
         >
-          ← Back to Guides
+           - Back to Guides
         </Link>
         <h1 className="font-cinzel text-4xl text-parchment-light mb-4">
           {title}

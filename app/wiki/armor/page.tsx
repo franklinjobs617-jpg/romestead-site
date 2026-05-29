@@ -143,7 +143,7 @@ export default function ArmorPage() {
         Romestead Armor Guide: All Armor Sets, Stats & Crafting
       </h1>
       <p className="text-ash text-sm mb-6">
-        Updated May 2026 &middot; Early Access Build &middot; 48 armor pieces across 20 sets
+        Updated May 29, 2026 &middot; Early Access Build &middot; 48 armor pieces across 20 sets
       </p>
 
       <div className="prose-romestead">
@@ -157,9 +157,9 @@ export default function ArmorPage() {
           <strong>Blacksmith</strong> (for metal sets). Some sets require dungeon recipes or boss drops.
         </p>
         <ul>
-          <li><strong>Leather sets</strong> — Good for ranged and magic builds</li>
-          <li><strong>Metal sets</strong> — Best for melee builds with high armor</li>
-          <li><strong>Special sets</strong> — Unique effects from dungeons and bosses</li>
+          <li><strong>Leather sets</strong>  - Good for ranged and magic builds</li>
+          <li><strong>Metal sets</strong>  - Best for melee builds with high armor</li>
+          <li><strong>Special sets</strong>  - Unique effects from dungeons and bosses</li>
         </ul>
       </div>
 
@@ -195,11 +195,11 @@ export default function ArmorPage() {
       <div className="prose-romestead">
         <h2 id="tips">Armor Tips</h2>
         <ul>
-          <li><strong>Early game:</strong> Craft Leather Armor set first — cheap and provides decent protection</li>
+          <li><strong>Early game:</strong> Craft Leather Armor set first  - cheap and provides decent protection</li>
           <li><strong>Melee builds:</strong> Rush Copper/Blacksmith armor for highest armor values</li>
-          <li><strong>Ranged builds:</strong> Thick Leather → Bonesplint → Firescale path gives best ranged damage bonuses</li>
-          <li><strong>Magic builds:</strong> Camillus → Augur → Flamines path for magic damage bonuses</li>
-          <li><strong>Boss farming:</strong> Feathered Set drops from Guardian of Minerva — good mid-game set</li>
+          <li><strong>Ranged builds:</strong> Thick Leather  - Bonesplint  - Firescale path gives best ranged damage bonuses</li>
+          <li><strong>Magic builds:</strong> Camillus  - Augur  - Flamines path for magic damage bonuses</li>
+          <li><strong>Boss farming:</strong> Feathered Set drops from Guardian of Minerva  - good mid-game set</li>
           <li><strong>End game:</strong> Tectonic/Legionary sets require rare materials from advanced areas</li>
         </ul>
       </div>

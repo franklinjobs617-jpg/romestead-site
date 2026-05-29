@@ -167,7 +167,7 @@ export default function BiomesPage() {
         Romestead Biomes Guide: All Regions, Resources & Difficulty
       </h1>
       <p className="text-ash text-sm mb-6">
-        Updated May 2026 &middot; Early Access Build
+        Updated May 29, 2026 &middot; Early Access Build
       </p>
 
       <div className="my-8 rounded-md overflow-hidden border border-stone-medium">
@@ -194,11 +194,11 @@ export default function BiomesPage() {
           certain biomes.
         </p>
         <ul>
-          <li><strong>Plains</strong> — Safe starter area, best for first base</li>
-          <li><strong>Forest</strong> — Dense, hard to build in, but has unique resources</li>
-          <li><strong>Desert</strong> — Scarce resources, powerful enemies, first big challenge</li>
-          <li><strong>Volcano</strong> — Extremely dangerous, end-game area</li>
-          <li><strong>Swamp</strong> — Unfinished in Early Access, high Wraith spawn rate</li>
+          <li><strong>Plains</strong>  - Safe starter area, best for first base</li>
+          <li><strong>Forest</strong>  - Dense, hard to build in, but has unique resources</li>
+          <li><strong>Desert</strong>  - Scarce resources, powerful enemies, first big challenge</li>
+          <li><strong>Volcano</strong>  - Extremely dangerous, end-game area</li>
+          <li><strong>Swamp</strong>  - Unfinished in Early Access, high Wraith spawn rate</li>
         </ul>
       </div>
 
@@ -212,13 +212,13 @@ export default function BiomesPage() {
       <div className="prose-romestead">
         <h2 id="tips">Exploration Tips</h2>
         <ul>
-          <li><strong>Start in Plains:</strong> Build your first base here — it has all basic resources</li>
+          <li><strong>Start in Plains:</strong> Build your first base here  - it has all basic resources</li>
           <li><strong>Mark everything:</strong> Use map markers for resource nodes, survivor camps, and dungeon entrances</li>
           <li><strong>Explore in pairs:</strong> Dangerous biomes are safer with a friend</li>
           <li><strong>Bring supplies:</strong> Pack food, weapons, and building materials before venturing far</li>
           <li><strong>Watch for NPCs:</strong> Small creatures will steal items left on the ground</li>
           <li><strong>Break everything:</strong> Bushes, rocks, and crates can contain hidden chests</li>
-          <li><strong>Avoid night travel:</strong> Zombies spawn constantly at night — stay in your settlement</li>
+          <li><strong>Avoid night travel:</strong> Zombies spawn constantly at night  - stay in your settlement</li>
         </ul>
       </div>
     </BlogLayout>

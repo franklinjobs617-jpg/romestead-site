@@ -4,14 +4,14 @@ import type { Metadata } from "next";
 import Image from "next/image";
 
 export const metadata: Metadata = {
-  title: "Romestead Bosses Guide - Locations, Drops, Fight Tips & Videos",
+  title: "Romestead Bosses Guide: Drops & Videos",
   description:
     "Romestead bosses guide with Guardian of Minerva, Pyzifax, Cyclops, locations, triggers, HP, loot drops, fight tips, videos, and FAQ.",
   alternates: {
     canonical: "/wiki/bosses",
   },
   openGraph: {
-    title: "Romestead Bosses Guide - Locations, Drops, Fight Tips & Videos",
+    title: "Romestead Bosses Guide: Drops & Videos",
     description:
       "Find Romestead boss locations, triggers, HP, loot drops, fight plans, videos, and confirmed future boss previews.",
     url: "https://romesteadguide.top/wiki/bosses",
@@ -360,7 +360,7 @@ export default function BossesPage() {
               what attacks to expect, and which loot is worth farming.
             </p>
             <p className="mt-4 text-xs text-ash">
-              Data checked May 2026:{" "}
+              Data checked May 29, 2026:{" "}
               <a href="https://romestead.wiki.gg/wiki/Bosses" target="_blank" rel="noopener noreferrer" className="text-ember underline underline-offset-2">
                 official Bosses page
               </a>
